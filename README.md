@@ -19,9 +19,8 @@ hugo new content/posts/YYYY-MM-DD-slug.md
 
 frontmatter의 `sourceUrl`에 근거가 된 정부 보도자료/공고 원문 링크를 기록한다. `draft: false`로 바꿔야 발행된다.
 
-## Cloudflare Pages 설정
+## 배포 (GitHub Pages)
 
-- Build command: `hugo --gc --minify`
-- Build output directory: `public`
-- 환경 변수: `HUGO_VERSION=0.165.0`
-- Custom domain: `blog.importants-studio.com`
+- `main`에 push하면 `.github/workflows/hugo.yml`이 Hugo 빌드 후 GitHub Pages로 자동 배포한다.
+- Hugo 버전은 워크플로우의 `HUGO_VERSION`으로 고정 (0.165.0).
+- Custom domain: `blog.importants-studio.com` (Porkbun CNAME → `importantsgit.github.io`)
