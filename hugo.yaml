@@ -1,7 +1,7 @@
 baseURL: https://blog.importants-studio.com/
 languageCode: ko-kr
 defaultContentLanguage: ko
-title: 혜택노트
+title: 혜택줍줍
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -28,7 +28,7 @@ outputs:
 
 params:
   env: production
-  title: 혜택노트
+  title: 혜택줍줍
   description: 정부 지원금·복지 혜택·세금 환급 정보를 알기 쉽게 정리합니다. 신청 조건, 방법, 기간까지 원문 근거와 함께.
   keywords: [지원금, 복지, 세금환급, 연말정산, 정부혜택, 신청방법]
   defaultTheme: auto
@@ -46,8 +46,8 @@ params:
   hideSummary: false
 
   homeInfoParams:
-    Title: 혜택노트
-    Content: 놓치기 쉬운 정부 지원금·복지 혜택·세금 환급 정보를 정리합니다. 모든 글은 정부 발표 원문을 근거로 작성하며, 원문 링크를 함께 제공합니다.
+    Title: 혜택줍줍
+    Content: 놓치기 쉬운 정부 지원금·복지 혜택·세금 환급 정보를 줍줍해 드립니다. 모든 글은 정부 발표 원문을 근거로 작성하며, 원문 링크를 함께 제공합니다.
 
 menu:
   main:

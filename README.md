@@ -1,6 +1,6 @@
 # importants-blog-site
 
-혜택노트 — 정부 지원금·복지·세금환급 정보 블로그. https://blog.importants-studio.com
+혜택줍줍 — 정부 지원금·복지·세금환급 정보 블로그. https://blog.importants-studio.com
 
 Hugo + PaperMod 테마. 파이프라인 설계 문서는 로컬 `~/Desktop/blog-automation/` 참고.
 
