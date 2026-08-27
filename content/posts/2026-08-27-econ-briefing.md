@@ -7,6 +7,9 @@ description: "한국은행이 기준금리를 연 3.00%로 두 달 연속 올렸
 tags: [경제브리핑, 기준금리, 근로장려금]
 categories: [경제브리핑]
 sourceUrl: "https://www.mt.co.kr/economy/2026/08/27/2026082709114417494"
+cover:
+  image: "/images/covers/econ-briefing-20260827.jpg"
+  alt: "상승 그래프와 저금통, 경제 뉴스"
 ---
 
 오늘은 한국은행 금융통화위원회가 뉴스를 다 삼킨 날입니다. 대출 있는 사람, 장려금 기다리는 사람 모두에게 확정된 소식이 하나씩 있습니다.
