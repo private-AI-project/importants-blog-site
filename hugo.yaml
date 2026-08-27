@@ -5,6 +5,10 @@ title: 혜택노트
 theme: PaperMod
 
 enableRobotsTXT: true
+
+services:
+  googleAnalytics:
+    ID: G-3PDYWLFGSG
 buildDrafts: false
 buildFuture: false
 buildExpired: false
