@@ -28,6 +28,9 @@ params:
   description: 정부 지원금·복지 혜택·세금 환급 정보를 알기 쉽게 정리합니다. 신청 조건, 방법, 기간까지 원문 근거와 함께.
   keywords: [지원금, 복지, 세금환급, 연말정산, 정부혜택, 신청방법]
   defaultTheme: auto
+  assets:
+    favicon: /favicon.svg
+    apple_touch_icon: /favicon.svg
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
