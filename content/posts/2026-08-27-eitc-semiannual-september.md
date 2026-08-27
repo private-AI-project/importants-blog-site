@@ -7,6 +7,9 @@ description: "2026년 상반기분 근로장려금 반기신청이 9월 1일부�
 tags: [근로장려금, 반기신청, 국세청, 세금혜택]
 categories: [지원금]
 sourceUrl: "https://www.nts.go.kr/nts/na/ntt/selectNttList.do?bbsId=50664"
+cover:
+  image: "/images/covers/eitc-semiannual-september-2026.jpg"
+  alt: "정부에서 지갑으로 들어오는 근로장려금"
 ---
 
 올해 상반기에 근로소득이 있었다면 확인해 볼 만한 일정이 하나 있습니다. **2026년 상반기분 근로장려금 반기신청이 9월 1일(월)부터 15일(화)까지** 진행됩니다. 기간이 딱 2주라서, 지나치면 내년 5월 정기신청까지 기다려야 합니다.

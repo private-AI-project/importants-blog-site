@@ -7,6 +7,9 @@ description: "9월 16일부터 30일까지 재산세 2기분 납부 기간입니
 tags: [재산세, 지방세, 위택스, 세금]
 categories: [세금]
 sourceUrl: "https://www.gov.kr/portal/service/serviceInfo/PTR000051732"
+cover:
+  image: "/images/covers/september-property-tax-2026.jpg"
+  alt: "주택과 재산세 고지서, 가을 낙엽"
 ---
 
 7월에 재산세를 냈는데 9월에 고지서가 또 날아온다면, 잘못 나온 게 아닙니다. **9월 16일부터 30일까지가 재산세 2기분 납부 기간**이고, 주택을 가진 사람 대부분이 이 기간에 한 번 더 냅니다. 올해는 납부 기간 한가운데에 추석 연휴(9월 24~27일)가 껴 있어서 미루다 보면 기한을 넘기기 쉽습니다.
