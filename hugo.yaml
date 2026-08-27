@@ -1,0 +1,69 @@
+baseURL: https://blog.importants-studio.com/
+languageCode: ko-kr
+defaultContentLanguage: ko
+title: 혜택노트
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 10
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  title: 혜택노트
+  description: 정부 지원금·복지 혜택·세금 환급 정보를 알기 쉽게 정리합니다. 신청 조건, 방법, 기간까지 원문 근거와 함께.
+  keywords: [지원금, 복지, 세금환급, 연말정산, 정부혜택, 신청방법]
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: false
+  ShowToc: true
+  TocOpen: false
+  ShowShareButtons: false
+  disableSpecial1stPost: true
+  hideSummary: false
+
+  homeInfoParams:
+    Title: 혜택노트
+    Content: 놓치기 쉬운 정부 지원금·복지 혜택·세금 환급 정보를 정리합니다. 모든 글은 정부 발표 원문을 근거로 작성하며, 원문 링크를 함께 제공합니다.
+
+menu:
+  main:
+    - identifier: posts
+      name: 전체 글
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: 태그
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: 검색
+      url: /search/
+      weight: 30
+    - identifier: about
+      name: 소개
+      url: /about/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+  highlight:
+    noClasses: false
