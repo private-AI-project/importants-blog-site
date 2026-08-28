@@ -7,9 +7,9 @@ description: "2026년 에너지바우처 신청이 12월 31일까지 진행 중�
 tags: [에너지바우처, 전기요금, 복지혜택, 에너지복지]
 categories: [지원금]
 sourceUrl: "https://www.energyv.or.kr/"
-# cover:
-#   image: "/images/covers/energy-voucher-2026.png"
-#   alt: "여름 전기요금을 덜어주는 에너지바우처"
+cover:
+  image: "/images/covers/energy-voucher-2026.jpg"
+  alt: "여름 전기요금을 덜어주는 에너지바우처"
 ---
 
 올여름 전기요금이 부담스러웠던 저소득 가구라면 확인할 게 하나 있습니다. **2026년 에너지바우처 신청이 12월 31일까지** 진행 중인데, 여름 전기요금에서 자동으로 차감되는 **하절기 사용 기간은 9월 30일에 끝납니다.** 이 제도는 알아서 지급되지 않습니다. 신청한 가구만 받습니다.
