@@ -7,9 +7,9 @@ description: "국비지원 학원 과정 대부분은 국민내일배움카드�
 tags: [내일배움카드, 국비지원, 직업훈련, 고용24]
 categories: [지원금]
 sourceUrl: "https://www.work24.go.kr/hr/h/a/1100/selectIssuGudn.do"
-# cover:
-#   image: "/images/covers/tomorrow-learning-card-2026.png"
-#   alt: "직업훈련비를 지원하는 국민내일배움카드"
+cover:
+  image: "/images/covers/tomorrow-learning-card-2026.jpg"
+  alt: "직업훈련비를 지원하는 국민내일배움카드"
 ---
 
 "국비지원 코딩 학원", "국비 요양보호사 과정" 같은 광고에서 말하는 국비는 대부분 하나의 제도에서 나옵니다. 고용노동부의 **국민내일배움카드**(이하 내일배움카드)입니다. 카드 한 장을 발급받으면 **5년간 300만원**, 조건에 따라 최대 500만원까지 훈련비를 지원받아 고용24에 등록된 훈련과정을 수강할 수 있습니다. 신청 기간이 따로 없는 상시 제도라 지금 바로 신청할 수 있고 실업자든 재직자든 자영업자든 대부분 대상입니다.
