@@ -7,9 +7,9 @@ description: "청년미래적금 추가 모집이 이르면 9월로 보도되고
 tags: [청년미래적금, 청년정책, 자산형성, 금융위원회]
 categories: [지원금]
 sourceUrl: "https://www.fsc.go.kr/no010101/87158"
-# cover:
-#   image: "/images/covers/youth-future-savings-round2-2026.png"
-#   alt: "적금 통장에 정부 기여금이 쌓이는 청년미래적금"
+cover:
+  image: "/images/covers/youth-future-savings-round2-2026.jpg"
+  alt: "적금 통장에 정부 기여금이 쌓이는 청년미래적금"
 ---
 
 지난 6월 청년미래적금 1차 모집에 234만 명이 몰렸습니다. 신청 기간이 딱 2주였는데, 뒤늦게 알았거나 서류가 준비 안 돼 놓친 사람이 많았죠. 그런 분들에게 기회가 한 번 더 옵니다. 언론 보도에 따르면 금융위원회가 **이르면 9월, 늦어도 10월 중 추가 모집**을 준비하고 있습니다.
