@@ -7,9 +7,9 @@ description: "고유가 피해지원금이 8월 31일 밤 12시에 끝나고, �
 tags: [경제브리핑, 고유가피해지원금, 대출금리]
 categories: [경제브리핑]
 sourceUrl: "https://www.sideview.co.kr/news/articleView.html?idxno=20323"
-# cover:
-#   image: "/images/covers/econ-briefing-20260828.png"
-#   alt: "마감을 앞둔 지원금 카드와 시계, 장바구니"
+cover:
+  image: "/images/covers/econ-briefing-20260828.jpg"
+  alt: "마감을 앞둔 지원금 카드와 시계, 장바구니"
 ---
 
 지원금 하나가 주말 지나면 사라지고, 어제 오른 기준금리는 오늘부터 대출 창구에 스며듭니다. 금요일에 챙길 것만 추렸습니다.
