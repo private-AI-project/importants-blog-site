@@ -7,7 +7,7 @@ Hugo + PaperMod 테마. 파이프라인 설계 문서는 로컬 `~/Desktop/blog-
 ## 로컬 실행
 
 ```bash
-git clone --recurse-submodules https://github.com/importantsgit/importants-blog-site.git
+git clone --recurse-submodules https://github.com/private-AI-project/importants-blog-site.git
 hugo server -D   # http://localhost:1313
 ```
 
