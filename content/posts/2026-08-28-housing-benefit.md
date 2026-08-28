@@ -7,9 +7,9 @@ description: "주거급여는 신청 기간이 따로 없는 상시 제도입니
 tags: [주거급여, 월세지원, 주거복지, 기초생활보장]
 categories: [복지]
 sourceUrl: "https://www.myhome.go.kr/hws/portal/cont/selectHousingBenefitView.do"
-# cover:
-#   image: "/images/covers/housing-benefit-2026.png"
-#   alt: "매달 월세를 덜어주는 주거급여"
+cover:
+  image: "/images/covers/housing-benefit-2026.jpg"
+  alt: "매달 월세를 덜어주는 주거급여"
 ---
 매달 나가는 월세가 버거운데 정부 지원은 남의 일 같다면, 주거급여부터 확인해 보세요. 소득 기준만 맞으면 **월세를 매달 통장으로** 지원받는 제도이고 신청 기간이 따로 없어 아무 때나 신청할 수 있습니다. 그런데도 못 받는 사람이 많습니다. "부모님이 집이 있으니 난 안 되겠지" 하고 지레 포기하기 때문인데, 주거급여는 부양의무자 기준을 보지 않습니다. [한국토지주택공사(LH) 안내](https://www.lh.or.kr/menu.es?mid=a10401050100)에 명시된 대로 부모나 자녀의 소득·재산과 상관없이 **내 가구의 소득과 재산만** 봅니다.
 
