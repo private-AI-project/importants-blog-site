@@ -7,9 +7,9 @@ description: "기준금리 3% 시대, 은행 예금 금리가 연 3.3%까지 먼
 tags: [경제브리핑, 예금금리, 전세대출]
 categories: [경제브리핑]
 sourceUrl: "https://www.sedaily.com/article/20084149"
-# cover:
-#   image: "/images/covers/econ-briefing-20260829.png"
-#   alt: "예금 통장과 저울 위의 집, 달력을 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260829.jpg"
+  alt: "예금 통장과 저울 위의 집, 달력을 표현한 일러스트"
 ---
 
 토요일입니다. 그제 오른 기준금리가 예금과 대출 양쪽으로 퍼지기 시작한 한 주, 지갑에 닿는 것만 추렸습니다.
