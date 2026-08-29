@@ -7,9 +7,9 @@ description: "2026학년도 2학기 국가장학금 2차 신청이 9월 9일 오
 tags: [국가장학금, 한국장학재단, 등록금, 대학생]
 categories: [지원금]
 sourceUrl: "https://www.kosaf.go.kr"
-# cover:
-#   image: "/images/covers/national-scholarship-round2-2026-fall.png"
-#   alt: "9월 9일 마감하는 2학기 국가장학금 2차 신청"
+cover:
+  image: "/images/covers/national-scholarship-round2-2026-fall.jpg"
+  alt: "9월 9일 마감하는 2학기 국가장학금 2차 신청"
 ---
 
 2026학년도 2학기 국가장학금 2차 신청이 지금 진행 중입니다. 마감은 **9월 9일(수) 오후 6시**. 기간 안에는 주말·공휴일 포함 24시간 신청할 수 있지만, 마지막 날만큼은 오후 6시 정각에 시스템이 닫힙니다. 밤에 하려다 놓치는 사례가 매번 나옵니다.
