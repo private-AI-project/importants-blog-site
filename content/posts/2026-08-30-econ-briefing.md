@@ -7,9 +7,9 @@ description: "추석 민생안정대책이 9월 첫 주에 나옵니다. 기차�
 tags: [경제브리핑, 추석민생대책, 기차표예매]
 categories: [경제브리핑]
 sourceUrl: "https://imnews.imbc.com/news/2026/econo/article/6847993_36932.html"
-# cover:
-#   image: "/images/covers/econ-briefing-20260830.png"
-#   alt: "추석 장바구니와 기차, 달력을 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260830.jpg"
+  alt: "추석 장바구니와 기차, 달력을 표현한 일러스트"
 ---
 
 일요일입니다. 내일이면 8월이 끝나고, 이번 주부터는 추석 준비가 본격적으로 시작됩니다. 미리 알아두면 돈이 되는 것만 추렸습니다.
