@@ -7,9 +7,9 @@ description: "8월 27일 근로·자녀장려금 정기분이 270만 가구에 �
 tags: [근로장려금, 자녀장려금, 기한후신청, 국세청]
 categories: [지원금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238977&mi=40397"
-# cover:
-#   image: "/images/covers/eitc-late-application-2026.png"
-#   alt: "12월 1일까지 열려 있는 근로장려금 기한 후 신청"
+cover:
+  image: "/images/covers/eitc-late-application-2026.jpg"
+  alt: "12월 1일까지 열려 있는 근로장려금 기한 후 신청"
 ---
 
 지난 목요일인 8월 27일, 국세청이 올해 5월에 신청받은 2025년 귀속 근로·자녀장려금을 270만 가구에 지급했습니다. 총 2조 8,741억원, 가구당 평균 106만원입니다. 주변에서 "장려금 들어왔다"는 말이 들리는데 내 통장은 조용했다면 이유는 둘 중 하나입니다. 신청했는데 심사에서 빠졌거나, 애초에 신청을 안 했거나.
