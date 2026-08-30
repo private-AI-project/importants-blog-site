@@ -74,6 +74,8 @@ menu:
 
 markup:
   goldmark:
+    extensions:
+      strikethrough: false
     renderer:
       unsafe: false
   highlight:
