@@ -7,9 +7,9 @@ description: "주담대 금리가 연내 8%를 넘을 수 있다는 전망이 �
 tags: [경제브리핑, 주담대금리, 소비자물가]
 categories: [경제브리핑]
 sourceUrl: "https://www.fnnews.com/news/202608301828306631"
-# cover:
-#   image: "/images/covers/econ-briefing-20260831.png"
-#   alt: "금리 그래프와 달력, 장바구니를 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260831.jpg"
+  alt: "금리 그래프와 달력, 장바구니를 표현한 일러스트"
 ---
 
 8월의 마지막 날, 월요일입니다. 이번 주는 물가 발표와 장려금 신청까지 지갑 일정이 빽빽합니다.
