@@ -7,9 +7,9 @@ description: "8월 31일부터 국민건강보험공단이 2025년 진료분 본
 tags: [본인부담상한제, 병원비환급, 국민건강보험공단, 의료비]
 categories: [복지]
 sourceUrl: "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1491727"
-# cover:
-#   image: "/images/covers/medical-cost-cap-refund-2026.png"
-#   alt: "본인부담상한제 초과금 환급 안내"
+cover:
+  image: "/images/covers/medical-cost-cap-refund-2026.jpg"
+  alt: "본인부담상한제 초과금 환급 안내"
 ---
 작년에 수술이나 입원으로 병원비를 크게 썼다면 오늘부터 휴대폰과 우편함을 챙겨볼 이유가 생겼습니다. 보건복지부(복지부)와 국민건강보험공단(건보공단)이 8월 30일 발표한 [보도자료](https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1491727)에 따르면, 2025년 진료분 본인부담상한액 초과금 지급이 8월 31일부터 시작됩니다. 대상자는 226만 2,605명, 총 3조 760억원. 1인 평균으로 약 136만원입니다.
 
