@@ -7,9 +7,9 @@ description: "은행들이 신용대출 문턱을 높인다는 뉴스가 이어�
 tags: [신용점수, NICE, KCB, 개인신용평가]
 categories: [경제상식]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148881778"
-# cover:
-#   image: "/images/covers/how-credit-score-works.jpg"
-#   alt: "숫자 게이지와 신용카드를 표현한 일러스트"
+cover:
+  image: "/images/covers/how-credit-score-works.jpg"
+  alt: "숫자 게이지와 신용카드를 표현한 일러스트"
 ---
 최근 은행들이 신용대출 한도를 줄이고 문턱을 높인다는 뉴스가 잇따르고 있습니다. 누군가는 평소와 똑같이 신청했는데 한도가 예전만 못하다는 얘기를 듣고, 또 누군가는 카드사 앱에 뜬 신용점수가 며칠 새 몇 점 떨어진 걸 보고 이유를 궁금해합니다. 그 문턱의 높낮이를 가르는 숫자가 바로 신용점수입니다. 어떻게 매겨지고 왜 오르내리는지 원리를 알아 두면, 대출 창구에서 듣는 말이 한결 이해가 갑니다.
 
