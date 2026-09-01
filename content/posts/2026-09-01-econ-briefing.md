@@ -7,9 +7,9 @@ description: "오늘부터 근로장려금 반기신청이 시작됩니다. 코�
 tags: [경제브리핑, 근로장려금, 코스피]
 categories: [경제브리핑]
 sourceUrl: "https://www.gukjenews.com/news/articleView.html?idxno=3680225"
-# cover:
-#   image: "/images/covers/econ-briefing-20260901.png"
-#   alt: "근로장려금 신청서와 하락하는 주가 그래프를 함께 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260901.jpg"
+  alt: "근로장려금 신청서와 하락하는 주가 그래프를 함께 표현한 일러스트"
 ---
 
 9월 첫날입니다. 신청 창구가 열리는 날인 동시에 증시는 흔들리고, 다음 부동산 대책 윤곽도 조금씩 드러나고 있습니다.
