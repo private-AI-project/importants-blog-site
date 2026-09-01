@@ -7,9 +7,9 @@ description: "국민취업지원제도 1유형 구직촉진수당이 2026년부�
 tags: [국민취업지원제도, 구직촉진수당, 고용노동부, 취업지원]
 categories: [지원금]
 sourceUrl: "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18725"
-# cover:
-#   image: "/images/covers/job-seeker-allowance-increase-2026.png"
-#   alt: "국민취업지원제도 구직촉진수당 인상 안내"
+cover:
+  image: "/images/covers/job-seeker-allowance-increase-2026.jpg"
+  alt: "국민취업지원제도 구직촉진수당 인상 안내"
 ---
 구직 활동 중이라 매달 나가는 돈은 뻔한데 들어오는 돈이 없다면, 국민취업지원제도부터 확인해 보시길 권합니다. 고용노동부 발표에 따르면 이 제도의 핵심인 구직촉진수당이 올해부터 **월 50만원에서 60만원으로 올랐습니다.** 부양가족이 있으면 여기에 가산돼 최대 월 100만원까지 받을 수 있고, 신청 기간이 따로 정해져 있지 않아 지금도 접수됩니다.
 
