@@ -7,9 +7,9 @@ description: "8월 소비자물가가 3.1%로 다시 뛰었고, 미국-이란 �
 tags: [경제브리핑, 소비자물가, 코스피]
 categories: [경제브리핑]
 sourceUrl: "https://view.asiae.co.kr/article/2026090210003726507"
-# cover:
-#   image: "/images/covers/econ-briefing-20260902.jpg"
-#   alt: "상승하는 물가 그래프와 하락하는 주가 그래프를 나란히 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260902.jpg"
+  alt: "상승하는 물가 그래프와 하락하는 주가 그래프를 나란히 표현한 일러스트"
 ---
 
 9월 둘째 날, 숫자 두 개가 눈길을 끌었습니다. 통계청이 발표한 물가지수, 개장하자마자 3%대로 꺾인 코스피입니다.
