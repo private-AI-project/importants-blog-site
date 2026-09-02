@@ -7,9 +7,9 @@ description: "두루누리 사회보험료 지원사업은 10인 미만 사업�
 tags: [두루누리, 사회보험료지원, 4대보험, 국민연금]
 categories: [지원금]
 sourceUrl: "https://insurancesupport.or.kr/durunuri/intro.php"
-# cover:
-#   image: "/images/covers/durunuri-social-insurance-subsidy-2026.png"
-#   alt: "국가가 4대보험료 80%를 대신 내주는 두루누리 지원"
+cover:
+  image: "/images/covers/durunuri-social-insurance-subsidy-2026.png"
+  alt: "국가가 4대보험료 80%를 대신 내주는 두루누리 지원"
 ---
 직원 열 명이 안 되는 가게나 사무실을 운영하고 있거나, 그런 곳에서 이제 막 4대보험에 가입했다면 확인할 게 하나 있습니다. 두루누리 사회보험료 지원사업입니다. 고용보험과 국민연금 보험료의 **80%를 국가가 대신 내주는** 제도인데, 신청하지 않으면 그냥 지나갑니다. 매달 월급명세서에서 빠져나가는 돈이 줄어드는 얘기라 사업주와 근로자 모두에게 해당됩니다.
 
