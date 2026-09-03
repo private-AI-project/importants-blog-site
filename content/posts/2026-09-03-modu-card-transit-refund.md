@@ -8,7 +8,7 @@ tags: [모두의카드, K패스, 대중교통비환급, 교통비지원]
 categories: [지원금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148962910"
 cover:
-  image: "/images/covers/modu-card-transit-refund-2026.png"
+  image: "/images/covers/modu-card-transit-refund-2026.jpg"
   alt: "대중교통비를 더 많이 돌려받는 모두의카드 한시 확대 혜택"
 ---
 매달 버스나 지하철을 15회 넘게 타고 있다면 이번 달 안에 확인해 볼 게 하나 있습니다. 대중교통비 환급 지원사업인 모두의카드가 올해 4월부터 환급 기준금액을 낮추고 환급률도 올려 왔습니다. **이 한시 확대는 9월 이용분을 끝으로 종료됩니다.** 아직 카드를 안 만들었거나 등록을 미뤄뒀다면 남은 기간 안에 챙기는 편이 낫습니다.
