@@ -7,9 +7,9 @@ description: "정부가 2026년 세제개편안을 확정해 오늘 국회에 �
 tags: [경제브리핑, 세제개편안, 종합부동산세]
 categories: [경제브리핑]
 sourceUrl: "https://korea.kr/briefing/pressReleaseView.do?newsId=156776418"
-# cover:
-#   image: "/images/covers/econ-briefing-20260903.jpg"
-#   alt: "세금 서류와 계산기, 집 모양 아이콘을 함께 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260903.jpg"
+  alt: "세금 서류와 계산기, 집 모양 아이콘을 함께 표현한 일러스트"
 ---
 
 9월 3일, 정부가 지난달 예고했던 세금 개편안을 최종 확정해 국회로 넘겼습니다. 임차인과 1주택자 모두에게 해당되는 변화라 하나씩 짚어봅니다.
