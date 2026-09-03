@@ -41,7 +41,7 @@ params:
   ShowCodeCopyButtons: false
   ShowToc: true
   TocOpen: false
-  ShowShareButtons: false
+  ShowShareButtons: true
   disableSpecial1stPost: true
   hideSummary: false
 
