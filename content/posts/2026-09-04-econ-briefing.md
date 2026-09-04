@@ -7,9 +7,9 @@ description: "정부가 오늘 시장상황점검회의를 열어 금리·부동
 tags: [경제브리핑, 코스피, 구직급여]
 categories: [경제브리핑]
 sourceUrl: "https://www.ksen.co.kr/news/article.html?no=221720"
-# cover:
-#   image: "/images/covers/econ-briefing-20260904.jpg"
-#   alt: "상승하는 증시 그래프와 은행 건물, 급여 봉투 아이콘을 나란히 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260904.jpg"
+  alt: "상승하는 증시 그래프와 은행 건물, 급여 봉투 아이콘을 나란히 표현한 일러스트"
 ---
 
 9월 4일, 정부는 금리와 부동산시장 리스크를 다시 들여다봤고 코스피는 하루 만에 반등했습니다. 실업급여를 받고 있거나 받을 계획이라면 내년 예산안에 담긴 변화도 눈여겨볼 만합니다.
