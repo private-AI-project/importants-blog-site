@@ -7,9 +7,9 @@ description: "2026년 문화누리카드 지원금이 1인당 15만원으로 작
 tags: [문화누리카드, 통합문화이용권, 문화바우처, 문화체육관광부]
 categories: [복지]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148958946"
-# cover:
-#   image: "/images/covers/culture-nuri-card-2026.jpg"
-#   alt: "공연, 여행, 스포츠 관람에 쓰는 문화누리카드"
+cover:
+  image: "/images/covers/culture-nuri-card-2026.jpg"
+  alt: "공연, 여행, 스포츠 관람에 쓰는 문화누리카드"
 ---
 올해 2월부터 신청받고 있는데 아직 카드를 안 만들었거나, 카드를 만들어 놓고 잔액을 안 써봤다면 지금 확인해 보세요. 문화누리카드는 기초생활수급자와 차상위계층에게 공연·여행·스포츠 관람 비용을 지원하는 제도입니다. [문화체육관광부 발표](https://www.korea.kr/news/policyNewsView.do?newsId=148958946)에 따르면 올해 지원금은 1인당 **15만원**으로 작년보다 1만원 올랐습니다. 신청 기한은 11월 30일까지지만 지역별로 배정된 예산이 먼저 떨어지면 그 전에 마감됩니다.
 
