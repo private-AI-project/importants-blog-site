@@ -7,9 +7,9 @@ description: "8월 소비자물가가 두 달 만에 3%대로 올랐지만 통�
 tags: [경제브리핑, 물가, 근로장려금]
 categories: [경제브리핑]
 sourceUrl: "https://www.sedaily.com/article/20086073"
-# cover:
-#   image: "/images/covers/econ-briefing-20260905.jpg"
-#   alt: "물가 상승 그래프와 신청서, 통장 아이콘을 한 줄로 배치한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260905.jpg"
+  alt: "물가 상승 그래프와 신청서, 통장 아이콘을 한 줄로 배치한 일러스트"
 ---
 
 9월 5일은 물가 수치 하나와 마감이 임박한 제도 두 가지가 겹치는 날입니다. 헤드라인에 놀라기 전에 안을 들여다볼 필요가 있습니다. 신청·전환 기한은 달력에 적어둘 만합니다.
