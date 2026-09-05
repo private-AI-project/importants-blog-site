@@ -7,9 +7,9 @@ description: "올해 초 연말정산 때 의료비나 기부금, 연금저축 �
 tags: [경정청구, 연말정산, 세금환급, 홈택스]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/법령/국세기본법"
-# cover:
-#   image: "/images/covers/missed-deduction-refund-claim-2026.jpg"
-#   alt: "홈택스 화면과 세금 환급 봉투를 표현한 일러스트"
+cover:
+  image: "/images/covers/missed-deduction-refund-claim-2026.jpg"
+  alt: "홈택스 화면과 세금 환급 봉투를 표현한 일러스트"
 ---
 연말정산이 끝난 지 반년도 더 지났는데 그때 낸 공제 서류가 갑자기 생각날 때가 있습니다. 병원비 영수증을 늦게 챙겼거나, 부모님 앞으로 낸 기부금을 빼먹었거나, 연금저축 납입액을 신고 안 한 경우입니다. 이런 건 이미 끝난 일이 아닙니다. 국세기본법이 정한 경정청구 제도를 쓰면 법정신고기한이 지난 후 **5년 이내**에는 세금을 다시 계산해 돌려받을 수 있습니다.
 
