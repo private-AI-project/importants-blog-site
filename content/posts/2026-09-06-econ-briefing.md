@@ -7,9 +7,9 @@ description: "수출 누적액이 7094억달러로 역대 최대를 경신했습
 tags: [경제브리핑, 수출, 가계부채]
 categories: [경제브리핑]
 sourceUrl: "https://biz.heraldcorp.com/article/10863579"
-# cover:
-#   image: "/images/covers/econ-briefing-20260906.jpg"
-#   alt: "수출 컨테이너선과 상승 그래프, 기차, 저울 아이콘이 나란히 놓인 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260906.jpg"
+  alt: "수출 컨테이너선과 상승 그래프, 기차, 저울 아이콘이 나란히 놓인 일러스트"
 ---
 
 일요일이라 증시는 쉬지만 경제 관련 지표는 계속 쌓이고 있습니다. 지난주 발표된 수출 실적과 이번 주 예고된 경제지표, 어제부터 달라진 기차 요금까지 지갑에 닿는 이야기 세 가지를 정리했습니다.
