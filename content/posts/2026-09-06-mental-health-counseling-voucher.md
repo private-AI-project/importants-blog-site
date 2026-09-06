@@ -7,9 +7,9 @@ description: "전국민 마음투자 지원사업이 2026년부터 정신건강 
 tags: [정신건강심리상담바우처, 마음투자지원사업, 심리상담, 보건복지부]
 categories: [복지]
 sourceUrl: "https://www.mohw.go.kr/menu.es?mid=a10706040800"
-# cover:
-#   image: "/images/covers/mental-health-counseling-voucher-2026.jpg"
-#   alt: "심리상담 바우처로 마음을 돌보는 사람"
+cover:
+  image: "/images/covers/mental-health-counseling-voucher-2026.jpg"
+  alt: "심리상담 바우처로 마음을 돌보는 사람"
 ---
 우울하거나 불안한데 상담비가 걸려서 미루고 있었다면 확인해 볼 제도가 하나 있습니다. 2024년부터 시행된 전국민 마음투자 지원사업이 2026년부터 **정신건강 심리상담 바우처사업**으로 이름이 바뀌면서 신청 조건도 달라졌습니다. 예전에는 소득 기준(중위소득 180% 이하)을 넘으면 대상에서 빠졌습니다. 이제는 **나이와 소득 기준 없이** 신청할 수 있습니다.
 
