@@ -7,9 +7,9 @@ description: "노란우산공제는 소기업·소상공인과 프리랜서가 �
 tags: [노란우산공제, 소득공제, 소상공인, 프리랜서세금]
 categories: [세금]
 sourceUrl: "https://yumam.kbiz.or.kr"
-# cover:
-#   image: "/images/covers/yellow-umbrella-mutual-aid-2026.jpg"
-#   alt: "노란 우산 아래 동전이 쌓이는 모습으로 절세를 표현한 일러스트"
+cover:
+  image: "/images/covers/yellow-umbrella-mutual-aid-2026.jpg"
+  alt: "노란 우산 아래 동전이 쌓이는 모습으로 절세를 표현한 일러스트"
 faq:
   - q: 사업자등록이 없는 프리랜서도 가입할 수 있나요?
     a: 가능합니다. 사업자등록을 하지 않았더라도 최근 사업 사실을 실질적으로 증빙할 수 있는 인적용역 제공자라면 노란우산공제에 가입할 수 있습니다.
