@@ -47,8 +47,8 @@ params:
   keywords: [지원금, 복지, 세금환급, 연말정산, 정부혜택, 신청방법]
   defaultTheme: auto
   assets:
-    favicon: /favicon.svg
-    apple_touch_icon: /favicon.svg
+    favicon: /favicon-32x32.png
+    apple_touch_icon: /apple-touch-icon.png
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
