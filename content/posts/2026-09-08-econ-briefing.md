@@ -7,9 +7,9 @@ description: "오늘부터 신청 시작하는 섬 여행 지원금, 역대 최�
 tags: ["경제브리핑", "추석물가", "유류세"]
 categories: ["경제브리핑"]
 sourceUrl: "https://biz.heraldcorp.com/article/10864740"
-# cover:
-#   image: "/images/covers/econ-briefing-20260908.jpg"
-#   alt: "섬과 배, 장바구니, 환율 그래프, 주유기를 나타내는 아이콘이 나란히 놓인 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260908.jpg"
+  alt: "섬과 배, 장바구니, 환율 그래프, 주유기를 나타내는 아이콘이 나란히 놓인 일러스트"
 faq:
   - q: 섬 여행 지원금은 어떻게 신청하나요?
     a: 9월 8일 오전 10시부터 21일 오후 6시까지 '2026년 섬 방문의 해' 공식 누리집에서 사전 신청을 받습니다. 신청자가 지원 규모를 넘으면 추첨으로 뽑고, 선정된 분만 개별 문자를 받습니다.
