@@ -7,9 +7,9 @@ description: "긴급복지지원제도는 실직, 중한 질병, 가정폭력, �
 tags: [긴급복지지원, 위기가구지원금, 생계지원금, 복지제도]
 categories: [복지]
 sourceUrl: "https://www.mohw.go.kr/menu.es?mid=a10708010100"
-# cover:
-#   image: "/images/covers/emergency-welfare-support-2026.jpg"
-#   alt: "갑자기 형편이 어려워진 가구에 손을 내밀어 생계비를 건네는 모습을 표현한 일러스트"
+cover:
+  image: "/images/covers/emergency-welfare-support-2026.jpg"
+  alt: "갑자기 형편이 어려워진 가구에 손을 내밀어 생계비를 건네는 모습을 표현한 일러스트"
 faq:
   - q: 기초생활수급자가 아니어도 신청할 수 있나요?
     a: 가능합니다. 긴급복지지원은 기초수급자 여부와 상관없이 위기상황에 처한 가구를 먼저 지원하고 나중에 소득·재산을 조사하는 '선지원 후조사' 원칙으로 운영됩니다.
