@@ -24,7 +24,7 @@ cover:
 
 1세대 1주택 실거주자의 종합부동산세 기본공제가 공시가격 12억원에서 14억원으로 오릅니다. 대신 비거주 1주택은 종전대로 12억원이 유지된다고 [정책브리핑](https://korea.kr/briefing/pressReleaseView.do?newsId=156776418)과 [택스넷](https://www.taxnet.co.kr/contents/taxnetpost/post-detail?id=5008&gubunCode=TP0030)이 함께 전했습니다. 8월 초안에는 종부세 세부담 상한을 200%로 올리는 방안도 있었으나 이번 확정안에서는 빠졌습니다.
 
-**내 지갑에는:** 공시가격 14억원짜리 집을 실거주 중이라면 이번 개편으로 종부세 과세 대상에서 아예 빠질 수 있습니다. 공시가격이 시세와 어떻게 다른지는 [이 글](/posts/official-price-vs-market-price/)에 정리해 두었습니다.
+**내 지갑에는:** 공시가격 14억원짜리 집을 실거주 중이라면 이번 개편으로 종부세 과세 대상에서 아예 빠질 수 있습니다. 공시가격이 시세와 어떻게 다른지는 [이 글](https://money.importants-studio.com/posts/official-price-vs-market-price/)에 정리해 두었습니다.
 
 ## 근로장려금 반기신청, 마감까지 12일
 
