@@ -7,9 +7,9 @@ description: "국가장학금 2학기 2차 신청이 오늘 오후 6시에 닫�
 tags: [경제브리핑, 국가장학금, 근로장려금]
 categories: [경제브리핑]
 sourceUrl: "https://www.newspim.com/news/view/20260824000899"
-# cover:
-#   image: "/images/covers/econ-briefing-20260909.jpg"
-#   alt: "신청서, 학사모, 장바구니 아이콘을 한 줄로 배치한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260909.jpg"
+  alt: "신청서, 학사모, 장바구니 아이콘을 한 줄로 배치한 일러스트"
 faq:
   - q: 국가장학금 2차 신청을 오늘 놓치면 방법이 없나요?
     a: 2026학년도에는 더 이상 국가장학금 신청 기회가 없습니다. 2차 신청이 이번 학년도의 마지막 통합 신청이라 9월 9일 오후 6시가 지나면 다음 학년도까지 기다려야 합니다.
