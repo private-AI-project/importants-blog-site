@@ -7,9 +7,9 @@ description: "배달라이더, 학원강사, 대리운전기사, 간병인처럼
 tags: [기한후환급서비스, 3.3%원천징수, 종합소득세환급, 인적용역소득자]
 categories: [세금]
 sourceUrl: "https://x.com/ntskorea/status/2095432875885969423"
-# cover:
-#   image: "/images/covers/freelance-withholding-tax-refund-2026.jpg"
-#   alt: "3.3% 원천징수 영수증에서 동전이 돌아오는 모습을 표현한 일러스트"
+cover:
+  image: "/images/covers/freelance-withholding-tax-refund-2026.jpg"
+  alt: "3.3% 원천징수 영수증에서 동전이 돌아오는 모습을 표현한 일러스트"
 faq:
   - q: 종합소득세 신고를 한 번도 안 했는데 이번에 신고하면 불이익이 있나요?
     a: 환급받을 세액이 있는 경우, 즉 실제 낼 세금이 이미 뗀 3.3%보다 적거나 없는 경우에는 무신고가산세가 붙지 않습니다. 오히려 신고하지 않으면 이미 낸 세금을 그대로 못 받게 됩니다.
