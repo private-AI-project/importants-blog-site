@@ -250,7 +250,7 @@
         var mode = btn.getAttribute("data-share");
         if (mode === "native") {
           if (navigator.share) {
-            navigator.share({ title: "실업급여 수급 자격 판정기", text: shareText, url: url }).catch(function () {});
+            navigator.share({ title: "실업급여 조건 확인·계산기", text: shareText, url: url }).catch(function () {});
           } else {
             copyTo(btn, shareText + "\n" + url, "복사됨 (카톡에 붙여넣기)");
           }
