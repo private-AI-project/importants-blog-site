@@ -7,9 +7,9 @@ description: "금융위원회와 보험업계가 7월부터 안내를 시작한 
 tags: [숨은보험금, 휴면예금, 미환급금, 내보험찾아줌]
 categories: [지원금]
 sourceUrl: "https://www.ddaily.co.kr/page/view/2026070715063735138"
-# cover:
-#   image: "/images/covers/hidden-money-finder-2026.jpg"
-#   alt: "잠자는 통장과 보험 서류에서 돈을 찾아내는 모습을 표현한 일러스트"
+cover:
+  image: "/images/covers/hidden-money-finder-2026.jpg"
+  alt: "돼지저금통과 통장, 체크 표시된 신청서, 동전 더미, 손 위의 동전을 나란히 배치한 일러스트"
 faq:
   - q: 숨은보험금이 있는지 무료로 확인할 수 있나요?
     a: 네. 생명보험협회와 손해보험협회가 함께 운영하는 내보험찾아줌 사이트에서 본인인증만 하면 비용 없이 조회하고 바로 청구할 수 있습니다.
