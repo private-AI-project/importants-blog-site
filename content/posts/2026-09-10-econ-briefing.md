@@ -7,9 +7,9 @@ description: "국세청이 놓친 세금을 5년치 한 번에 돌려주는 환�
 tags: [경제브리핑, 세금환급, 유산사산휴가]
 categories: [경제브리핑]
 sourceUrl: "https://www.koreatimenews.com/news/article.html?no=1247271"
-# cover:
-#   image: "/images/covers/econ-briefing-20260910.jpg"
-#   alt: "세금 환급 서류와 달력, 휴가증을 나란히 표현한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260910.jpg"
+  alt: "신청서와 날짜에 체크된 달력, 선물 상자를 나란히 배치한 일러스트"
 faq:
   - q: 예전에 놓친 세금 환급도 지금 받을 수 있나요?
     a: 네, 국세청이 9월 1일부터 시작한 기한 후 환급 서비스로 2021년부터 2025년까지 5개년 환급금을 한 번에 조회하고 증빙서류·수수료 없이 신청할 수 있습니다. 홈택스와 손택스, ARS(1544-9944)에서 가능합니다.
