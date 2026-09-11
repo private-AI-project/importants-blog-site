@@ -7,9 +7,9 @@ description: "금융감독원과 여신금융협회가 2025년 11월 내놓은 �
 tags: [카드포인트, 카드포인트자동사용, 포인트소멸, 여신금융협회]
 categories: [지원금]
 sourceUrl: "https://www.etnews.com/20251117000210"
-# cover:
-#   image: "/images/covers/card-point-auto-use-2026.jpg"
-#   alt: "카드와 결제 단말기, 포인트가 자동으로 차감되는 모습과 시계로 소멸을 표현한 일러스트"
+cover:
+  image: "/images/covers/card-point-auto-use-2026.jpg"
+  alt: "카드와 결제 단말기, 포인트가 자동으로 차감되는 모습과 시계로 소멸을 표현한 일러스트"
 faq:
   - q: 65세 이상이면 무조건 카드포인트 자동사용이 적용되나요?
     a: 네. 2026년 2월부터 별도 신청 없이 자동 적용되는 옵트아웃 방식입니다. 원하지 않으면 카드사 고객센터로 연락해 해지할 수 있습니다.
