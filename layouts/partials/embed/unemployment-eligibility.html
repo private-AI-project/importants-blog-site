@@ -1,0 +1,69 @@
+    <form id="unemployment-form" class="calc-form">
+      <div class="calc-field">
+        <label for="reason">퇴사 사유</label>
+        <select id="reason" name="reason">
+          <option value="layoff">권고사직·해고·계약만료·폐업</option>
+          <option value="retire">정년 도달</option>
+          <option value="restructure">자진퇴사 · 사업 축소에 따른 희망퇴직</option>
+          <option value="wage">자진퇴사 · 임금체불 (2개월 이상)</option>
+          <option value="commute">자진퇴사 · 통근 왕복 3시간 이상</option>
+          <option value="health">자진퇴사 · 질병·부상으로 업무 곤란</option>
+          <option value="harassment">자진퇴사 · 직장 내 괴롭힘·성희롱·차별</option>
+          <option value="family">자진퇴사 · 가족 간병 (30일 이상)</option>
+          <option value="personal">자진퇴사 · 개인 사정 (이직·창업·학업 등)</option>
+          <option value="misconduct">중대한 귀책사유로 해고 (횡령·무단결근 등)</option>
+        </select>
+        <p class="calc-hint">여기가 가장 중요합니다. 다른 계산기들이 묻지 않는 항목이고, 이 하나로 받느냐 못 받느냐가 갈립니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="workedMonths">마지막 직장 근무 개월 수</label>
+        <input type="number" id="workedMonths" name="workedMonths" min="0" max="240" step="1" placeholder="예: 14">
+        <p class="calc-hint">아래 피보험단위기간을 대신 채워드립니다. 이미 아시면 아래에 직접 넣으세요.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="insuredDays">이직 전 18개월간 피보험단위기간 <span>(일)</span></label>
+        <input type="number" id="insuredDays" name="insuredDays" min="0" max="600" step="1" placeholder="예: 364" required>
+        <p class="calc-hint">재직일수가 아니라 <strong>보수를 받은 날</strong>입니다. 주5일 근무면 주휴일이 더해져 주 6일로 잡힙니다. 180일 이상이어야 합니다. 고용24에서 정확한 값을 조회할 수 있습니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="insuredYears">고용보험 총 가입기간 <span>(년)</span></label>
+        <input type="number" id="insuredYears" name="insuredYears" min="0" max="50" step="0.1" placeholder="예: 4.5" required>
+        <p class="calc-hint">이전 직장들까지 합친 기간입니다. 소정급여일수가 여기서 정해집니다. 실업급여를 받은 적이 있으면 그 이후부터 셉니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="age">이직일 기준 나이 <span>(만)</span></label>
+        <input type="number" id="age" name="age" min="15" max="99" step="1" placeholder="예: 43" required>
+        <p class="calc-hint">만 50세를 넘으면 소정급여일수가 늘어납니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label><input type="checkbox" id="disabled" name="disabled"> 장애인입니다</label>
+        <p class="calc-hint">나이와 상관없이 50세 이상과 같은 소정급여일수가 적용됩니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="monthlyWage">퇴직 전 3개월 월 평균 세전 급여 <span>(원)</span></label>
+        <input type="text" id="monthlyWage" name="monthlyWage" inputmode="numeric" placeholder="예: 3000000" required>
+        <p class="calc-hint">상여금과 연차수당도 일정 비율로 들어갑니다. 3,000,000 처럼 쉼표를 넣어도 됩니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="workHours">1일 소정근로시간</label>
+        <select id="workHours" name="workHours">
+          <option value="8">8시간 (전일제)</option>
+          <option value="7">7시간</option>
+          <option value="6">6시간</option>
+          <option value="5">5시간</option>
+          <option value="4">4시간</option>
+        </select>
+        <p class="calc-hint">하한액이 근로시간에 비례합니다. 단시간 근로자는 여기서 크게 갈리는데 대부분의 계산기가 8시간만 씁니다.</p>
+      </div>
+
+      <button type="submit" class="calc-submit">자격 판정하고 금액 계산하기</button>
+    </form>
+
+    <div id="calc-result" class="calc-result" hidden></div>
