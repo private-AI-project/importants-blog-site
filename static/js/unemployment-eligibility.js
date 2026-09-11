@@ -239,6 +239,7 @@
 
     box.innerHTML = html;
     box.hidden = false;
+    if (window.gtag) gtag("event", "tool_result", { tool_path: location.pathname });
 
     var url = "https://blog.importants-studio.com/tools/unemployment-eligibility/";
     var shareText = r.eligible
