@@ -1,0 +1,37 @@
+    <form id="property-tax-form" class="calc-form">
+      <div class="calc-field">
+        <label for="price">주택 공시가격 <span>(원)</span></label>
+        <input type="text" id="price" name="price" inputmode="numeric" placeholder="예: 350000000" required>
+        <p class="calc-hint">실거래가·호가가 아닙니다. 부동산공시가격알리미(realtyprice.kr)에서 우리 집 주소로 조회한 금액입니다. 3억 5천만원이면 350,000,000.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="oneHome">1세대 1주택인가요</label>
+        <select id="oneHome" name="oneHome">
+          <option value="yes">예 (세대 전체가 이 집 한 채)</option>
+          <option value="no">아니요 (2주택 이상·법인)</option>
+        </select>
+        <p class="calc-hint">1주택이면 공정시장가액비율이 43~45%로 낮고, 공시가격 9억 이하면 세율도 구간마다 0.05%p 낮습니다. 따로 신청하지 않아도 자동 적용됩니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label><input type="checkbox" id="urban" name="urban" checked> 도시지역 안에 있습니다 (도시지역분 포함)</label>
+        <p class="calc-hint">시 지역 아파트·주택은 거의 전부 해당합니다. 고지서에 '재산세(도시지역분)' 줄이 있었으면 체크한 채로 두세요.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="lastYear">작년 재산세 <span>(원, 선택)</span></label>
+        <input type="text" id="lastYear" name="lastYear" inputmode="numeric" placeholder="모르시면 비워두세요">
+        <p class="calc-hint">작년 고지서의 재산세 + 도시지역분 합계(지방교육세 제외)입니다. 넣으면 세부담상한(105~130%)까지 봅니다.</p>
+      </div>
+
+      <div class="calc-field">
+        <label for="share">내 지분 <span>(%)</span></label>
+        <input type="number" id="share" name="share" min="1" max="100" step="1" value="100">
+        <p class="calc-hint">부부 공동명의 50%면 50. 세율은 집 전체로 정하고 고지서만 지분대로 나뉩니다.</p>
+      </div>
+
+      <button type="submit" class="calc-submit">재산세 계산하기</button>
+    </form>
+
+    <div id="calc-result" class="calc-result" hidden></div>
