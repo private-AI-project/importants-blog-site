@@ -7,9 +7,9 @@ description: "추석을 앞두고 성수품 할인, 전통시장 온누리상품
 tags: [경제브리핑, 추석민생대책, 온누리상품권]
 categories: [경제브리핑]
 sourceUrl: "https://biz.heraldcorp.com/article/10858659"
-# cover:
-#   image: "/images/covers/econ-briefing-20260911.jpg"
-#   alt: "장바구니와 상품권, 고속도로 나들목을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260911.jpg"
+  alt: "장바구니와 상품권, 고속도로 나들목을 나란히 배치한 일러스트"
 faq:
   - q: 성수품 할인은 아무 마트에서나 받을 수 있나요?
     a: 정부가 배추·사과·소고기 등 성수품을 역대 최대인 18만3000톤 풀고 1030억원을 투입해 대형마트와 전통시장 등 유통 전반의 가격을 낮추는 방식입니다. 농산물 선물세트는 최대 50%, 수산물 선물세트는 최대 53%까지 할인됩니다.
