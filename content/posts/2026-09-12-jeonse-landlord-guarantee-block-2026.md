@@ -7,9 +7,9 @@ description: "한국주택금융공사(HF)·주택도시보증공사(HUG)·SGI�
 tags: [전세보증금반환보증, 안심전세앱, 전세사기예방, HUG]
 categories: [복지]
 sourceUrl: "https://www.fnnews.com/news/202609071405397818"
-# cover:
-#   image: "/images/covers/jeonse-landlord-guarantee-block-2026.jpg"
-#   alt: "집 모형과 계약서, 서류를 확인하는 돋보기를 그린 일러스트"
+cover:
+  image: "/images/covers/jeonse-landlord-guarantee-block-2026.jpg"
+  alt: "집 모형과 계약서, 서류를 확인하는 돋보기를 그린 일러스트"
 faq:
   - q: 이미 살고 있는 집도 안심전세 앱에서 확인할 수 있나요?
     a: 네, 계약 여부와 상관없이 임대인 정보조회 메뉴에서 확인할 수 있습니다. 다만 이번 정보 공유는 2026년 2월 3일 이후 발생한 미반환 건만 대상이라, 그 이전 사고 이력은 조회에 안 걸릴 수 있습니다.
