@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
+    {{- if .Description }}<div class="post-description">{{ .Description }}</div>{{ end }}
+    <div class="post-meta">기준: 2026년 지방세법 제110·111·111조의2 · 시행령 제109조 · 간이 계산</div>
+  </header>
+  <div class="post-content">
+    <p>공시가격 하나만 넣으면 본세·도시지역분·지방교육세를 더한 고지서 금액과 7월·9월 납기별 금액이 나옵니다. 1주택 특례는 자동으로 적용합니다. 입력한 값은 서버로 보내지 않고 브라우저 안에서만 계산됩니다.</p>
+
+    {{ partial "embed/property-tax-calculator.html" . }}
+
+    {{ partial "embed_code.html" . }}
+
+    {{ .Content }}
+  </div>
+
+  {{/* 도구는 전용 레이아웃이라 single.html 을 타지 않는다. FAQ 파샬을 여기서
+       직접 불러야 문답과 FAQPage 스키마가 나간다. */}}
+  {{- partial "extend_post_content.html" . }}
+</article>
+<script src="/js/property-tax-calc.js" defer></script>
+{{ end }}
