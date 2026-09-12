@@ -7,9 +7,9 @@ description: "세제개편안으로 월세 세액공제 한도가 늘고 청년 
 tags: [경제브리핑, 월세세액공제, 아동수당]
 categories: [경제브리핑]
 sourceUrl: "https://biz.heraldcorp.com/article/10862645"
-# cover:
-#   image: "/images/covers/econ-briefing-20260912.jpg"
-#   alt: "월세 계약서와 저금통, 아이 옷을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260912.jpg"
+  alt: "월세 계약서와 저금통, 아이 옷을 나란히 배치한 일러스트"
 faq:
   - q: 월세 세액공제 한도가 늘어난 건 이번 연말정산부터 적용되나요?
     a: 아니요, 2027년 1월 1일 이후 지급하는 월세분부터 적용됩니다. 이번 겨울 연말정산에는 기존 한도(연 1000만원)가 그대로 적용됩니다.
