@@ -7,9 +7,9 @@ description: "2025년 7월 1일부터 헬스장·수영장 같은 체육시설 �
 tags: [문화비소득공제, 헬스장소득공제, 연말정산, 신용카드소득공제]
 categories: [세금]
 sourceUrl: "https://www.korea.kr/news/policyNewsView.do?newsId=148945180"
-# cover:
-#   image: "/images/covers/gym-pool-culture-tax-deduction-2026.jpg"
-#   alt: "헬스장과 수영장, 신용카드와 영수증을 나란히 그린 일러스트"
+cover:
+  image: "/images/covers/gym-pool-culture-tax-deduction-2026.jpg"
+  alt: "헬스장과 수영장, 신용카드와 영수증을 나란히 그린 일러스트"
 faq:
   - q: 프리랜서나 자영업자도 헬스장 이용료로 소득공제를 받을 수 있나요?
     a: 받을 수 없습니다. 문화비 소득공제는 근로소득자 중에서도 총급여 7천만원 이하인 사람만 대상입니다. 사업소득으로 신고하는 프리랜서나 자영업자는 신용카드 등 소득공제 자체를 받지 못합니다.
