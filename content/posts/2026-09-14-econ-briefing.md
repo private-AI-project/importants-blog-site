@@ -7,9 +7,9 @@ description: "추석 연휴를 앞두고 온누리상품권 확대와 고속도�
 tags: [경제브리핑, 추석민생대책, 근로장려금]
 categories: [경제브리핑]
 sourceUrl: "https://biz.heraldcorp.com/article/10858453"
-# cover:
-#   image: "/images/covers/econ-briefing-20260914.jpg"
-#   alt: "온누리상품권과 고속도로 통행료 표지판, 급여명세서를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/econ-briefing-20260914.jpg"
+  alt: "온누리상품권과 고속도로 통행료 표지판, 급여명세서를 나란히 배치한 일러스트"
 faq:
   - q: 온누리상품권 할인은 언제까지 받을 수 있나요?
     a: 9월 16일부터 20일까지입니다. 이 기간에는 디지털 온누리상품권 구매 한도가 120만원으로 늘고, 기존 100만원 구매분엔 7%, 추가된 20만원엔 10% 할인이 붙습니다.
