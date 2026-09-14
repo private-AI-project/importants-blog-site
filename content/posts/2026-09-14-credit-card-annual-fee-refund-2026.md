@@ -7,9 +7,9 @@ description: "카드를 해지하면 이미 낸 연회비 중 남은 기간에 �
 tags: [연회비반환, 신용카드해지, 카드연회비, 여신전문금융업법]
 categories: [지원금]
 sourceUrl: "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=585&ccfNo=4&cciNo=2&cnpClsNo=1"
-# cover:
-#   image: "/images/covers/credit-card-annual-fee-refund-2026.jpg"
-#   alt: "가위로 반으로 자른 신용카드와 그 옆에 놓인 동전, 돌아오는 화살표를 그린 일러스트"
+cover:
+  image: "/images/covers/credit-card-annual-fee-refund-2026.jpg"
+  alt: "가위로 반으로 자른 신용카드와 그 옆에 놓인 동전, 돌아오는 화살표를 그린 일러스트"
 faq:
   - q: 카드를 해지하지 않고도 연회비를 돌려받을 수 있나요?
     a: 아닙니다. 이 반환은 계약을 실제로 해지할 때만 발생합니다. 카드는 그대로 두고 연회비만 돌려달라고 요청할 수는 없습니다.
