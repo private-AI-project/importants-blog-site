@@ -7,9 +7,9 @@ description: "9월 16일부터 30일까지 주택분 2기분과 토지분 재산
 tags: [재산세, 지방세, 분할납부, 위택스]
 categories: [세금]
 sourceUrl: "https://www.wetax.go.kr/tcp/loi/J030104M01.do"
-# cover:
-#   image: "/images/covers/property-tax-september-installment-2026.jpg"
-#   alt: "9월 달력과 집 모양 아이콘, 반으로 나뉜 청구서를 그린 일러스트"
+cover:
+  image: "/images/covers/property-tax-september-installment-2026.jpg"
+  alt: "9월 달력과 집 모양 아이콘, 반으로 나뉜 청구서를 그린 일러스트"
 faq:
   - q: 재산세가 250만원 넘으면 무조건 나눠 낼 수 있나요?
     a: 신청하면 가능합니다. 9월분(주택 2기분+토지분) 세액이 250만원을 넘으면 250만원 초과 500만원 이하 구간은 250만원을 초과하는 금액을, 500만원을 넘으면 세액의 50% 이하 금액을 12월 30일까지 미룰 수 있습니다.
