@@ -7,9 +7,9 @@ description: "총급여 7천만원 이하 무주택 세대주가 주택청약종
 tags: [주택청약종합저축, 소득공제, 무주택세대주, 연말정산]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40610&cntntsId=239022"
-# cover:
-#   image: "/images/covers/housing-subscription-savings-income-deduction-2026.jpg"
-#   alt: "청약통장과 집 모양 저금통, 위로 올라가는 화살표를 그린 일러스트"
+cover:
+  image: "/images/covers/housing-subscription-savings-income-deduction-2026.jpg"
+  alt: "청약통장과 집 모양 저금통, 위로 올라가는 화살표를 그린 일러스트"
 faq:
   - q: 총급여가 7천만원을 넘으면 전혀 공제를 못 받나요?
     a: 네. 총급여 7천만원을 넘는 근로소득자는 주택청약종합저축에 아무리 많이 납입해도 소득공제 대상이 아닙니다. 사업소득으로 신고하는 자영업자나 프리랜서도 애초에 대상이 아닙니다.
