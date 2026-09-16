@@ -7,9 +7,9 @@ description: "총급여 8,000만원 이하 무주택 세대주라면 1년 동안
 tags: [월세세액공제, 연말정산, 무주택세대주, 홈택스]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40613&cntntsId=239025"
-# cover:
-#   image: "/images/covers/monthly-rent-tax-credit-2026.jpg"
-#   alt: "월세 계약서와 집 모양 저금통, 퍼센트 기호를 그린 일러스트"
+cover:
+  image: "/images/covers/monthly-rent-tax-credit-2026.jpg"
+  alt: "월세 계약서와 집 모양 저금통, 퍼센트 기호를 그린 일러스트"
 faq:
   - q: 총급여가 8,000만원을 조금 넘으면 전혀 못 받나요?
     a: 못 받습니다. 총급여 8,000만원(종합소득금액 7,000만원)을 넘으면 대상에서 제외되고, 그 이하까지만 15% 또는 17%의 공제율이 적용됩니다.
