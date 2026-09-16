@@ -7,9 +7,9 @@ description: "출퇴근길 버스·지하철비를 신용카드로 결제하면 
 tags: [신용카드소득공제, 대중교통, 연말정산, 세제개편]
 categories: [세금]
 sourceUrl: "https://www.hankyung.com/article/2026090286071"
-# cover:
-#   image: "/images/covers/transit-card-tax-deduction-cut-2027.jpg"
-#   alt: "버스와 지하철, 신용카드, 아래로 향하는 퍼센트 화살표를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/transit-card-tax-deduction-cut-2027.jpg"
+  alt: "버스와 지하철, 신용카드, 아래로 향하는 퍼센트 화살표를 나란히 배치한 일러스트"
 faq:
   - q: 지금 당장 대중교통 카드 공제가 줄어드나요?
     a: 아닙니다. 2026년에 쓴 대중교통비는 지금 그대로 40% 공제율이 적용돼 내년 초 연말정산에 반영됩니다. 공제율이 낮아지는 건 2027년 이용분부터이고, 그마저도 아직 국회 심의를 거쳐야 확정됩니다.
