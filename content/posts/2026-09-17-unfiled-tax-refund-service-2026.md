@@ -7,9 +7,9 @@ description: "프리랜서나 아르바이트로 번 돈에서 세금을 떼였�
 tags: [기한후신고, 종합소득세, 국세청, 세금환급, 홈택스]
 categories: [세금]
 sourceUrl: "https://x.com/ntskorea/status/2095432875885969423"
-# cover:
-#   image: "/images/covers/unfiled-tax-refund-service-2026.jpg"
-#   alt: "홈택스 화면과 전화 상담, 5년치 서류 더미와 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/unfiled-tax-refund-service-2026.jpg"
+  alt: "홈택스 화면과 전화 상담, 5년치 서류 더미와 동전을 나란히 배치한 일러스트"
 faq:
   - q: 종합소득세 신고를 아예 안 했는데 지금이라도 환급받을 수 있나요?
     a: 네. 국세기본법 제45조의3에 따라 관할 세무서가 세액을 결정해 통지하기 전까지는 기한후신고서를 낼 수 있습니다. 프리랜서나 아르바이트로 원천징수만 되고 신고를 못 한 경우가 대표적인 대상입니다.
