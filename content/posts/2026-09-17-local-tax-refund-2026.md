@@ -7,9 +7,9 @@ description: "행정안전부에 따르면 2025년 기준 지방세 미환급금
 tags: [지방세환급금, 위택스, 이택스, 과오납]
 categories: [세금]
 sourceUrl: "https://www.fnnews.com/news/202604211810276742"
-# cover:
-#   image: "/images/covers/local-tax-refund-2026.jpg"
-#   alt: "위택스 화면과 동전 더미, 자동차와 집 모양 아이콘을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/local-tax-refund-2026.jpg"
+  alt: "위택스 화면과 동전 더미, 자동차와 집 모양 아이콘을 나란히 배치한 일러스트"
 faq:
   - q: 이미 이사하거나 차를 팔았어도 환급금을 받을 수 있나요?
     a: 받을 수 있습니다. 환급금은 과거에 낸 세금을 기준으로 생기기 때문에 지금 그 집이나 차를 갖고 있는지와는 상관없습니다. 위택스나 이택스에서 본인 인증만 하면 조회하고 그 자리에서 신청할 수 있습니다.
