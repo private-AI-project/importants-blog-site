@@ -7,9 +7,9 @@ description: "고향사랑기부제는 내가 사는 곳이 아닌 다른 지자
 tags: [고향사랑기부제, 세액공제, 고향사랑e음, 연말정산, 답례품]
 categories: [세금]
 sourceUrl: "https://www.mois.go.kr/frt/sub/a06/b06/hometownLovedonation/screen.do"
-# cover:
-#   image: "/images/covers/hometown-donation-tax-credit-2026.jpg"
-#   alt: "고향사랑e음 화면과 지역 특산품 답례품 상자, 영수증을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/hometown-donation-tax-credit-2026.jpg"
+  alt: "고향사랑e음 화면과 지역 특산품 답례품 상자, 영수증을 나란히 배치한 일러스트"
 faq:
   - q: 내가 사는 지역에 기부해도 세액공제를 받을 수 있나요?
     a: 받을 수 없습니다. 고향사랑기부제는 본인 주소지 관할 지자체에는 기부할 수 없고, 그 외 다른 모든 지자체 중에서 골라 기부해야 합니다. 예를 들어 수원시민이면 수원시와 경기도를 뺀 나머지 지자체가 대상입니다.
