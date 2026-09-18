@@ -7,9 +7,9 @@ description: "국민건강보험공단이 8월 31일부터 2025년 진료분 본
 tags: [본인부담상한제, 건강보험환급, 병원비환급, 국민건강보험공단]
 categories: [복지]
 sourceUrl: "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1491727&mid=a10503010100&nPage=1&tag="
-# cover:
-#   image: "/images/covers/medical-expense-cap-refund-2026.jpg"
-#   alt: "병원 영수증과 통장, 동전 더미와 손 위의 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/medical-expense-cap-refund-2026.jpg"
+  alt: "병원 영수증과 통장, 동전 더미와 손 위의 동전을 나란히 배치한 일러스트"
 faq:
   - q: 소득이 높으면 환급을 못 받나요?
     a: 아닙니다. 소득이 높을수록 상한액 자체가 높아질 뿐, 그 상한액을 넘긴 금액은 소득과 상관없이 전액 돌려받습니다. 2025년 기준 최고 소득 구간(10분위)도 826만원을 넘긴 의료비는 초과분 전액이 환급 대상입니다.
