@@ -7,9 +7,9 @@ description: "은행 이체·ATM 수수료는 조건만 맞추면 대부분 안 
 tags: [은행수수료, ATM수수료면제, 이체수수료, 인터넷전문은행]
 categories: [지원금]
 sourceUrl: "https://www.bokjiro.go.kr/ssis-tbu/cms/pc/news/news/1302482_1114.html"
-# cover:
-#   image: "/images/covers/bank-fee-waiver-conditions-2026.jpg"
-#   alt: "은행 창구와 ATM, 스마트폰 뱅킹 앱을 나란히 놓고 동전이 오가는 모습을 그린 일러스트"
+cover:
+  image: "/images/covers/bank-fee-waiver-conditions-2026.jpg"
+  alt: "은행 창구와 ATM, 스마트폰 뱅킹 앱을 나란히 놓고 동전이 오가는 모습을 그린 일러스트"
 faq:
   - q: 65세 이상이면 아무 때나 ATM 수수료가 무료인가요?
     a: 영업시간인 오전 8시 30분부터 오후 6시까지는 다른 은행 ATM을 이용해도 수수료가 없습니다. 다만 그 시간을 벗어나면 100% 면제가 아니라 20% 할인만 적용됩니다. 해당 은행은 KB국민·신한·하나·우리·NH농협·IBK기업은행 6곳입니다.
