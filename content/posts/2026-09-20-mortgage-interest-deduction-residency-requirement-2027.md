@@ -7,9 +7,9 @@ description: "주택담보대출 이자를 갚으면 최대 2,000만원까지 �
 tags: [장기주택저당차입금, 주택담보대출, 소득공제, 연말정산, 세제개편]
 categories: [세금]
 sourceUrl: "https://www.taxtimes.co.kr/news/article.html?no=276240"
-# cover:
-#   image: "/images/covers/mortgage-interest-deduction-residency-requirement-2027.jpg"
-#   alt: "집 모양 아이콘과 대출 서류, 열쇠, 체크 표시된 계약서를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/mortgage-interest-deduction-residency-requirement-2027.jpg"
+  alt: "집 모양 아이콘과 대출 서류, 열쇠, 체크 표시된 계약서를 나란히 배치한 일러스트"
 faq:
   - q: 장기주택저당차입금 이자상환액 소득공제를 받으려면 지금 조건이 어떻게 되나요?
     a: 과세기간 종료일 현재 무주택이거나 1주택만 있는 세대주가, 기준시가 6억원 이하 주택을 담보로 상환기간 10년 이상인 대출을 받아 이자를 갚고 있으면 대상입니다. 상환기간과 금리·상환방식에 따라 한도가 600만원에서 2,000만원까지 달라집니다.
