@@ -7,9 +7,9 @@ description: "신용카드로 쓴 돈이 총급여의 25%를 넘으면 그 초�
 tags: [신용카드소득공제, 연말정산, 세제개편, 대중교통공제, 도서공연비공제]
 categories: [세금]
 sourceUrl: "https://www.taxtimes.co.kr/news/article.html?no=276220"
-# cover:
-#   image: "/images/covers/credit-card-tax-deduction-reform-2027.jpg"
-#   alt: "신용카드와 버스, 책, 공연 마스크 아이콘을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/credit-card-tax-deduction-reform-2027.jpg"
+  alt: "신용카드와 버스, 책, 공연 마스크와 퍼센트 기호를 나란히 배치한 일러스트"
 faq:
   - q: 신용카드 소득공제를 받으려면 지금 조건이 어떻게 되나요?
     a: 근로소득이 있는 사람이 한 해 동안 쓴 신용카드·체크카드·현금영수증 금액이 총급여의 25%를 넘으면 그 초과분에 대해 공제받습니다. 사업소득만 있는 사람은 대상이 아닙니다.
