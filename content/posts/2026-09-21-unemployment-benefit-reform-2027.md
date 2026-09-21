@@ -7,9 +7,9 @@ description: "고용노동부가 9월 1일 고용보험위원회 심의를 거�
 tags: [실업급여, 구직급여, 고용보험, 고용노동부, 제도개편]
 categories: [복지]
 sourceUrl: "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19866"
-# cover:
-#   image: "/images/covers/unemployment-benefit-reform-2027.jpg"
-#   alt: "급여명세서와 시계, 하락하는 그래프와 서류 아이콘을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/unemployment-benefit-reform-2027.jpg"
+  alt: "급여명세서와 달력, 하락하는 화살표와 쌓인 동전을 나란히 배치한 일러스트"
 faq:
   - q: 실업급여 개편안은 확정된 건가요?
     a: 아직 아닙니다. 고용노동부가 9월 1일 고용보험위원회 심의를 거쳐 확정한 정부 개편 방안이며, 법 개정을 위해 연내 국회에 법안을 제출할 계획입니다. 국회를 통과해야 실제로 시행됩니다.
