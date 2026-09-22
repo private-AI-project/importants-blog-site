@@ -7,9 +7,9 @@ description: "국민건강보험법 제47조에 따라 병원이나 약국이 �
 tags: [본인부담금환급금, 국민건강보험공단, 병원비환급, 건강보험]
 categories: [복지]
 sourceUrl: "https://www.nhis.or.kr/static/html/wbma/c/wbmac0211.html"
-# cover:
-#   image: "/images/covers/health-insurance-overcharge-refund-2026.jpg"
-#   alt: "병원 영수증과 서류 봉투, 계좌번호가 적힌 신청서, 통장을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/health-insurance-overcharge-refund-2026.jpg"
+  alt: "병원 영수증과 서류 봉투, 계좌번호가 적힌 신청서, 통장을 나란히 배치한 일러스트"
 faq:
   - q: 본인부담상한제 초과금이랑 같은 건가요?
     a: 아닙니다. 상한제는 1년간 낸 본인부담금 총액이 소득 구간별 상한액을 넘었을 때 그 초과분을 돌려주는 제도이고, 본인부담금 환급금은 병원이나 약국이 애초에 법정 본인부담률보다 많이 받아간 사실이 확인됐을 때 그 초과분만 돌려주는 별도 제도입니다(국민건강보험법 제47조 3항·4항).
