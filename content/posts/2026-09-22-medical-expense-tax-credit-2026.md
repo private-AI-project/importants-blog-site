@@ -7,9 +7,9 @@ description: "의료비 세액공제는 총급여의 3%를 초과한 의료비 �
 tags: [의료비세액공제, 연말정산, 국세청, 실손보험금]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7874"
-# cover:
-#   image: "/images/covers/medical-expense-tax-credit-2026.jpg"
-#   alt: "병원 영수증과 계산기, 실손보험 서류와 안경을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/medical-expense-tax-credit-2026.jpg"
+  alt: "병원 영수증과 계산기, 실손보험 서류와 안경을 나란히 배치한 일러스트"
 faq:
   - q: 의료비 세액공제는 어떻게 계산하나요?
     a: 1년 동안 쓴 의료비 중 총급여의 3%를 넘는 금액에 15%를 곱합니다. 예를 들어 총급여 4천만원인 근로자가 부양가족 의료비로 300만원을 썼다면, 3%인 120만원을 뺀 180만원의 15%인 27만원을 돌려받습니다.
