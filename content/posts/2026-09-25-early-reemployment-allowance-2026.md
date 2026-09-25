@@ -6,9 +6,9 @@ slug: "early-reemployment-allowance-2026"
 description: "조기재취업수당은 구직급여(실업급여)를 받다가 소정급여일수의 절반 이상을 남기고 재취업하면 남은 급여의 절반을 일시금으로 받는 제도입니다. 지급액은 구직급여일액에 남은 날짜를 곱한 뒤 다시 절반을 곱해 계산하는데, 2026년 구직급여일액 하한액 66,048원 기준으로도 남은 날짜에 따라 수백만원이 나옵니다. 다만 실업 신고 후 14일 안에 취업하거나 원래 다니던 회사로 돌아가면 대상에서 빠지고, 신청도 재취업 즉시가 아니라 12개월을 채운 뒤에 해야 합니다. 조건과 계산법, 신청 시기와 제외 대상까지 고용노동부·찾기쉬운 생활법령정보 기준으로 정리했습니다."
 tags: [조기재취업수당, 실업급여, 구직급여, 고용보험, 고용노동부]
 categories: [복지]
-# cover:
-#   image: "/images/covers/early-reemployment-allowance-2026.jpg"
-#   alt: "이력서와 출근 가방, 남은 날짜가 표시된 달력과 봉투에 담긴 돈을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/early-reemployment-allowance-2026.jpg"
+  alt: "이력서와 출근 가방, 남은 날짜가 표시된 달력과 봉투에 담긴 돈을 나란히 배치한 일러스트"
 sourceUrl: "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=722&ccfNo=3&cciNo=1&cnpClsNo=1"
 faq:
   - q: 실업급여를 받다가 취업하면 남은 돈은 그냥 못 받나요?
