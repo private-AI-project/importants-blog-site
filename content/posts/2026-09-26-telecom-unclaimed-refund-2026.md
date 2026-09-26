@@ -7,9 +7,9 @@ description: "과학기술정보통신부가 5월 정리한 자료에 따르면 
 tags: [통신비미환급금, 스마트초이스, 미환급금조회, 통신사환급]
 categories: [지원금]
 sourceUrl: "https://www.imaeil.com/page/view/2026092219111112244"
-# cover:
-#   image: "/images/covers/telecom-unclaimed-refund-2026.jpg"
-#   alt: "스마트폰과 지폐, 닫힌 자물쇠가 걸린 조회 화면과 달력을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/telecom-unclaimed-refund-2026.jpg"
+  alt: "스마트폰과 지폐, 닫힌 자물쇠가 걸린 조회 화면과 달력을 나란히 배치한 일러스트"
 faq:
   - q: 통신비 미환급금은 왜 생기나요?
     a: 해지나 번호이동 정산이 끝난 뒤 요금할인이 뒤늦게 반영되거나, 자동이체가 한 번 더 빠져나가 이중납부가 되는 경우입니다. 가입할 때 낸 단말기 할부보증보험료나 유선 설비보증금을 돌려받지 못한 채 계약이 끝나는 경우도 여기 포함됩니다.
