@@ -7,9 +7,9 @@ description: "개인사업자는 11월 중순까지 작년 종합소득세의 �
 tags: [종합소득세중간예납, 중간예납추계액, 중간예납신고, 개인사업자세금, 프리랜서세금]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2242&cntntsId=7675"
-# cover:
-#   image: "/images/covers/interim-tax-estimate-filing-2026.jpg"
-#   alt: "달력과 고지서 봉투, 계산기, 줄어든 막대 그래프를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/interim-tax-estimate-filing-2026.jpg"
+  alt: "달력과 고지서 봉투, 계산기, 줄어든 막대 그래프를 나란히 배치한 일러스트"
 faq:
   - q: 중간예납 고지서를 받았는데 올해 매출이 줄었다면 어떻게 하나요?
     a: 1~6월 소득으로 계산한 세액(중간예납추계액)이 중간예납기준액의 30%에 못 미치면 추계액을 신고하고 그 금액만 낼 수 있습니다. 신고서 제출과 납부 기한은 2026년 11월 30일입니다.
