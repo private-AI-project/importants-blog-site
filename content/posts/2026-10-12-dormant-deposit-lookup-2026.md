@@ -7,9 +7,9 @@ description: "휴면예금 찾기는 서민금융진흥원의 휴면예금 찾�
 tags: [휴면예금, 휴면예금찾기, 서민금융진흥원, 어카운트인포, 숨은돈찾기]
 categories: [지원금]
 sourceUrl: "https://www.kinfa.or.kr/cyber/appInfo/sleepMoneyInf.do"
-# cover:
-#   image: "/images/covers/dormant-deposit-lookup-2026.jpg"
-#   alt: "잠든 저금통, 스마트폰, 은행 창구, 돌아오는 동전을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/dormant-deposit-lookup-2026.jpg"
+  alt: "잠든 저금통, 스마트폰, 은행 창구, 돌아오는 동전을 나란히 배치한 일러스트"
 faq:
   - q: 휴면예금은 몇 년이 지나야 휴면예금이 되나요?
     a: 예금은 마지막 거래일로부터 5년이 지났는데 찾아가지 않으면 휴면예금으로 분류됩니다. 보험금은 청구 시기가 3년 지난 경우가 기준입니다.
