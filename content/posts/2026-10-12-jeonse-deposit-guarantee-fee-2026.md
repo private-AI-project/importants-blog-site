@@ -7,9 +7,9 @@ description: "전세보증금 반환보증 보증료는 보증금 3억원 아파
 tags: [전세보증금반환보증, 반환보증보증료, 보증료지원, 전세보증보험, HUG]
 categories: [세금]
 sourceUrl: "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp"
-# cover:
-#   image: "/images/covers/jeonse-deposit-guarantee-fee-2026.jpg"
-#   alt: "집 모형과 계약서, 돌아오는 동전 봉투를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/jeonse-deposit-guarantee-fee-2026.jpg"
+  alt: "집 모형과 계약서, 돌아오는 동전 봉투를 나란히 배치한 일러스트"
 faq:
   - q: 전세보증금 반환보증 보증료는 어떻게 계산하나요?
     a: 보증금액에 보증료율을 곱하고 전세계약기간을 365로 나눈 값을 곱합니다. 보증금 3억원 아파트에 부채비율 70% 이하, 2년 계약이면 연 0.107%를 적용해 64만 2천원입니다. 요율은 보증금 구간, 주택 유형, 부채비율에 따라 달라집니다.
