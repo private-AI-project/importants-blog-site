@@ -7,9 +7,9 @@ description: "임차권등기명령은 계약이 끝났는데 보증금을 못 �
 tags: [임차권등기명령, 전세보증금, 보증금반환, 대항력, 우선변제권]
 categories: [경제상식]
 sourceUrl: "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=5&cciNo=2&cnpClsNo=1"
-# cover:
-#   image: "/images/covers/lease-registration-order-application-2026.jpg"
-#   alt: "이사 상자와 집 모형, 열쇠를 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/lease-registration-order-application-2026.jpg"
+  alt: "이사 상자와 집 모형, 열쇠를 나란히 놓은 일러스트"
 faq:
   - q: 임차권등기명령은 계약기간이 끝나기 전에도 신청할 수 있나요?
     a: 임대차가 끝난 뒤에만 신청할 수 있습니다. 계약기간 만료는 물론 해지통고나 합의 해지로 끝난 경우도 해당하고, 보증금을 일부라도 못 돌려받았다면 신청 요건이 됩니다.
