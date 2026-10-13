@@ -7,9 +7,9 @@ description: "세금 환급금 조회는 홈택스 국세환급금 찾기, 손�
 tags: [세금환급금조회, 국세환급금, 홈택스, 환급계좌, 숨은돈찾기]
 categories: [세금]
 sourceUrl: "https://mob.tbht.hometax.go.kr/jsonAction.do?actionId=UTBRDAAA03F001"
-# cover:
-#   image: "/images/covers/national-tax-refund-lookup-2026.jpg"
-#   alt: "스마트폰, 돋보기, 저금통, 열쇠를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/national-tax-refund-lookup-2026.jpg"
+  alt: "스마트폰, 돋보기, 저금통, 열쇠를 나란히 배치한 일러스트"
 faq:
   - q: 세금 환급금 조회는 어디서 하나요?
     a: 홈택스의 국세환급금 찾기, 손택스 앱, 정부24 미환급금 조회에서 할 수 있습니다. 주민(사업자)등록번호와 성명으로 본인 인증 후 조회합니다.
