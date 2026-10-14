@@ -7,9 +7,9 @@ description: "증여세 면제 한도는 법에서 증여재산공제라고 부�
 tags: [증여세, 증여세면제한도, 증여재산공제, 증여세신고, 자녀증여]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/lsLinkProc.do?lsNm=상속세+및+증여세법&joNo=005300&mode=11"
-# cover:
-#   image: "/images/covers/gift-tax-exemption-limit-2026.jpg"
-#   alt: "손에서 손으로 건너가는 상자와 열쇠, 저울을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/gift-tax-exemption-limit-2026.jpg"
+  alt: "손에서 손으로 건너가는 상자와 열쇠, 저울을 나란히 배치한 일러스트"
 faq:
   - q: 부모에게 각각 3천만원씩 받으면 증여세가 나오나요?
     a: 나옵니다. 부모가 같은 해에 함께 증여하면 공제액 5천만원을 증여가액 비율로 나누어 적용하는데, 합계 6천만원에서 5천만원을 빼면 과세표준이 1천만원이고 세율 10%를 적용한 세금은 100만원입니다. 기한 안에 신고하면 신고세액공제 3%가 빠집니다.
