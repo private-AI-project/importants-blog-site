@@ -7,9 +7,9 @@ description: "퇴직금 중간정산은 법에서 정한 사유가 있을 때만
 tags: [퇴직금중간정산, 중간정산사유, 퇴직소득세, 근속연수공제, 직장인]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/lsLinkProc.do?lsNm=근로자퇴직급여+보장법&joNo=000800&mode=11"
-# cover:
-#   image: "/images/covers/severance-interim-settlement-2026.jpg"
-#   alt: "열쇠, 작은 집 모형, 돋보기, 저금통을 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/severance-interim-settlement-2026.jpg"
+  alt: "열쇠, 작은 집 모형, 돋보기, 저금통을 나란히 놓은 일러스트"
 faq:
   - q: 퇴직금 중간정산은 아무 때나 받을 수 있나요?
     a: 받을 수 없습니다. 근로자퇴직급여 보장법은 주택구입 등 시행령에서 정한 사유로 근로자가 요구할 때만 미리 정산해 지급할 수 있게 합니다. 목돈이 필요하다는 이유만으로는 사유가 되지 않습니다.
