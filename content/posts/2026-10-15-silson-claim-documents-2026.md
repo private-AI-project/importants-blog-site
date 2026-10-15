@@ -7,9 +7,9 @@ description: "실손보험 청구서류는 통원 진료비 금액에 따라 달
 tags: [실손보험청구서류, 실손보험청구, 진료비영수증, 질병분류기호, 실손24]
 categories: [경제상식]
 sourceUrl: "https://consumer.knia.or.kr/consumer/insurance-guide/0201.do"
-# cover:
-#   image: "/images/covers/silson-claim-documents-2026.jpg"
-#   alt: "영수증과 처방전, 청구서를 닮은 빈 종이 세 장과 스마트폰, 병원 십자가 건물을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/silson-claim-documents-2026.jpg"
+  alt: "영수증과 처방전, 청구서를 닮은 빈 종이 세 장과 스마트폰, 병원 십자가 건물을 나란히 배치한 일러스트"
 faq:
   - q: 병원비가 2만 원대인데 서류를 다 떼야 하나요?
     a: 통원 3만원 이하라면 진단명이 적힌 보험금 청구서와 진료비 영수증만으로 청구할 수 있습니다. 다만 산부인과, 항문외과, 비뇨기과, 피부과는 이 간소화 기준에서 빠집니다.
