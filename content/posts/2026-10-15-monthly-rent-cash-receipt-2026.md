@@ -7,9 +7,9 @@ description: "월세 세액공제를 받을 수 없는 총급여 8,000만원 초
 tags: [월세현금영수증, 주택임차료, 연말정산, 현금영수증소득공제, 홈택스]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2473&cntntsId=7798"
-# cover:
-#   image: "/images/covers/monthly-rent-cash-receipt-2026.jpg"
-#   alt: "작은 집과 스마트폰, 두루마리를 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/monthly-rent-cash-receipt-2026.jpg"
+  alt: "작은 집과 스마트폰, 두루마리를 나란히 놓은 일러스트"
 faq:
   - q: 집주인이 현금영수증을 안 끊어 준다고 하면 포기해야 하나요?
     a: 포기하지 않으셔도 됩니다. 주택 임차인 본인이 홈택스나 손택스, 또는 세무서에 서면으로 신고하면 됩니다. 임대차계약서를 첨부하면 되고 월세 지급일부터 5년 안이면 신고할 수 있습니다.
