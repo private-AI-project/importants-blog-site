@@ -7,9 +7,9 @@ description: "예금자보호 한도는 2025년 9월 1일부터 1억원입니다
 tags: [예금자보호한도, 예금자보호, 예금보험공사, 대출상계, 퇴직연금]
 categories: [경제상식]
 sourceUrl: "https://www.kdic.or.kr/sp/dpstrprot/ProtSystProtLmts/selectScrn.do"
-# cover:
-#   image: "/images/covers/deposit-protection-limit-loan-offset-2026.jpg"
-#   alt: "저금통과 은행 건물, 방패, 스마트폰을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/deposit-protection-limit-loan-offset-2026.jpg"
+  alt: "저금통과 은행 건물, 방패, 스마트폰을 나란히 배치한 일러스트"
 faq:
   - q: 한 은행에 1억 2천만원을 넣어 두면 2천만원은 못 받나요?
     a: 금융회사가 영업정지나 파산에 이르면 원금과 소정이자를 합해 1인당 1억원까지만 보호되고 초과금액은 보호되지 않습니다. 보호되지 않은 예금은 파산한 금융회사의 재산이 남을 경우 채권액 비율에 따라 일부를 돌려받을 수 있습니다.
