@@ -7,9 +7,9 @@ description: "건강검진을 받는 시간을 유급으로 해야 하는지는 
 tags: [건강검진공가, 건강검진휴가, 취업규칙, 연차, 공가]
 categories: [복지]
 sourceUrl: "https://www.moel.go.kr/minwon/fastcounsel/fastcounselView.do?inetDcssMngId=202407031000053080133"
-# cover:
-#   image: "/images/covers/health-checkup-paid-leave-2026.jpg"
-#   alt: "청진기와 빈 달력 모양 판, 출근 가방을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/health-checkup-paid-leave-2026.jpg"
+  alt: "청진기와 빈 달력 모양 판, 출근 가방을 나란히 배치한 일러스트"
 faq:
   - q: 회사원도 건강검진 받는 날 공가를 받을 수 있나요?
     a: 고용노동부는 건강진단 시간을 유급으로 할지에 대해 노동관계법령에 별도 규정이 없다고 답했습니다. 회사 단체협약이나 취업규칙에 공가나 유급휴가가 정해져 있으면 그에 따라 쓸 수 있습니다.
