@@ -7,9 +7,9 @@ description: "연말정산 간소화 서비스에서 조회되지 않는 안경�
 tags: [연말정산간소화, 안경공제, 교복공제, 연말정산서류, 의료비세액공제]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?nttSn=1347979&mi=2201"
-# cover:
-#   image: "/images/covers/yearend-simplified-missing-items-2026.jpg"
-#   alt: "안경과 교복 상의, 돋보기를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/yearend-simplified-missing-items-2026.jpg"
+  alt: "안경과 교복 상의, 돋보기를 나란히 배치한 일러스트"
 faq:
   - q: 연말정산 간소화 자료에 안경 구입비가 안 뜨면 공제를 못 받나요?
     a: 받을 수 있습니다. 국세청은 안경·콘택트렌즈 구입비를 제출의무가 없는 자율 제출 자료로 분류해 조회되지 않을 수 있다고 안내합니다. 안 보이면 안경점에서 영수증을 받아 회사에 제출하시면 되고, 한도는 기본공제대상자 1명당 연 50만원입니다.
