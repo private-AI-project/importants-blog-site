@@ -7,9 +7,9 @@ description: "중도상환수수료는 대출계약이 성립한 날부터 3년 
 tags: [중도상환수수료, 중도상환수수료면제, 주담대, 신용대출, 대출갈아타기]
 categories: [지원금]
 sourceUrl: "https://www.fsc.go.kr/edu/news/83839"
-# cover:
-#   image: "/images/covers/prepayment-fee-three-year-rule-2026.jpg"
-#   alt: "열쇠 모양 집과 저울, 달력 모양 아이콘을 나란히 놓은 일러스트"
+cover:
+  image: "/images/covers/prepayment-fee-three-year-rule-2026.jpg"
+  alt: "열쇠 모양 집과 저울, 달력 모양 아이콘을 나란히 놓은 일러스트"
 faq:
   - q: 대출받은 지 3년이 지났는데 중도상환수수료를 내야 하나요?
     a: 내지 않습니다. 금융소비자보호법은 대출계약이 성립한 날부터 3년 이내에 갚는 경우에만 중도상환수수료를 부과할 수 있게 하고, 그 밖의 부과는 불공정영업행위로 금지합니다. 기준일은 대출 실행일이 아니라 계약이 성립한 날입니다.
