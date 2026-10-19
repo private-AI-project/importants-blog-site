@@ -7,9 +7,9 @@ description: "1세대 1주택 양도세 비과세는 양도일 현재 1주택을
 tags: [양도세비과세조건, 1세대1주택, 양도소득세, 고가주택, 조정대상지역]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7707&mi=2308"
-# cover:
-#   image: "/images/covers/capital-gains-tax-exemption-conditions-2026.jpg"
-#   alt: "집 한 채와 열쇠, 저울을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/capital-gains-tax-exemption-conditions-2026.jpg"
+  alt: "집 한 채와 열쇠, 저울을 나란히 배치한 일러스트"
 faq:
   - q: 집을 12억원 넘게 팔면 양도세를 전부 내야 하나요?
     a: 전부 내지 않습니다. 국세청은 12억원을 초과하는 양도가액 비율만큼은 비과세를 받을 수 없다고 안내합니다. 양도가액이 15억원이고 양도차익이 10억원이면 과세 대상 차익은 2억원입니다. 세금 공제 전 단순 계산 예시입니다.
