@@ -7,9 +7,9 @@ description: "신용카드 소득공제는 총급여의 25%를 넘게 쓴 금액
 tags: [신용카드소득공제, 연말정산, 총급여25%, 체크카드공제, 소득공제한도]
 categories: [세금]
 sourceUrl: "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2469&cntntsId=7794"
-# cover:
-#   image: "/images/covers/credit-card-deduction-calculation-2026.jpg"
-#   alt: "신용카드와 계산기, 저울을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/credit-card-deduction-calculation-2026.jpg"
+  alt: "신용카드와 계산기, 저울을 나란히 배치한 일러스트"
 faq:
   - q: 신용카드를 많이 쓰면 무조건 공제가 늘어나나요?
     a: 아닙니다. 카드와 현금영수증 사용액이 총급여의 25%를 넘어야 공제가 시작되고, 한도는 총급여 7천만원 이하 300만원, 초과 250만원입니다. 25%를 채우기 전의 지출은 공제와 무관합니다.
