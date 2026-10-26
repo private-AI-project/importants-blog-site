@@ -7,9 +7,9 @@ description: "국가건강검진 예약은 올해 12월 31일 전에 끝내야 �
 tags: [건강검진예약, 국가건강검진예약, 직장인건강검진, 검진표분실, 건강검진금식]
 categories: [복지]
 sourceUrl: "https://www.nhis.or.kr/nhis/healthin/wbhaca04500m01.do"
-# cover:
-#   image: "/images/covers/health-checkup-reservation-2026.jpg"
-#   alt: "청진기와 체온계, 빈 달력 모양 판을 한 줄로 배치한 일러스트"
+cover:
+  image: "/images/covers/health-checkup-reservation-2026.jpg"
+  alt: "청진기와 체온계, 둥근 판을 한 줄로 배치한 일러스트"
 faq:
   - q: 국가건강검진은 어디에 예약하나요?
     a: 국민건강보험공단 일반건강검진 안내에는 예약 절차가 적혀 있지 않습니다. 공단 홈페이지의 검진기관 찾기로 기관을 고른 뒤 그 기관에 예약 방법을 물어보시면 됩니다.
