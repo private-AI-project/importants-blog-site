@@ -7,9 +7,9 @@ description: "문화비 소득공제는 도서·신문·공연·박물관·미�
 tags: [문화비소득공제, 문화비소득공제대상, 문화비소득공제한도, 연말정산, 신용카드소득공제]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/법령/조세특례제한법/제126조의2"
-# cover:
-#   image: "/images/covers/culture-expense-deduction-extra-limit-2026.jpg"
-#   alt: "책과 공연 마스크, 미술관 액자, 영화 필름, 운동 기구를 한 줄로 나란히 그린 일러스트"
+cover:
+  image: "/images/covers/culture-expense-deduction-extra-limit-2026.jpg"
+  alt: "공연 마스크와 빈 액자, 영화 릴, 아령을 한 줄로 그린 일러스트"
 faq:
   - q: 문화비 소득공제는 누가 받을 수 있나요?
     a: 근로소득이 있는 사람 중 총급여가 7천만원 이하인 사람입니다. 문화비 소득공제 누리집도 총급여 7천만원 이하 근로소득자(연말정산 대상자)를 대상으로 안내합니다. 총급여가 이를 넘으면 문화비 사용분은 일반 신용카드 사용분으로 계산됩니다.
