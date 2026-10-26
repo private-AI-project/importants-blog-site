@@ -7,9 +7,9 @@ description: "보장성보험 세액공제는 낸 보험료 가운데 연 100만
 tags: [보장성보험세액공제, 보험료세액공제, 연말정산, 세액공제한도, 장애인전용보험]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/법령/소득세법/제59조의4"
-# cover:
-#   image: "/images/covers/insurance-premium-tax-credit-2026.jpg"
-#   alt: "방패 모양 아이콘과 작은 집, 스마트폰을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/insurance-premium-tax-credit-2026.jpg"
+  alt: "방패 모양 아이콘과 작은 집, 스마트폰을 나란히 배치한 일러스트"
 faq:
   - q: 보장성보험 세액공제는 얼마까지 받을 수 있나요?
     a: 일반 보장성보험료는 연 100만원까지 인정하고 그 12%를 세액에서 빼므로 최대 12만원입니다. 장애인전용 보장성보험료는 따로 연 100만원까지 15%를 적용해 최대 15만원입니다. 두 한도는 각각 적용됩니다.
