@@ -7,9 +7,9 @@ description: "교육비 세액공제는 낸 금액의 15%를 세금에서 직접
 tags: [교육비세액공제, 교육비세액공제조건, 대학원등록금공제, 학자금대출공제, 연말정산]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/법령/소득세법/제59조의4"
-# cover:
-#   image: "/images/covers/education-expense-tax-credit-self-2026.jpg"
-#   alt: "졸업 모자와 연필, 스마트폰, 작은 저금통을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/education-expense-tax-credit-self-2026.jpg"
+  alt: "졸업 모자와 연필, 작은 저금통을 나란히 배치한 일러스트"
 faq:
   - q: 교육비 세액공제에 소득 제한이 있나요?
     a: 공제를 받는 근로자 본인에게는 소득 제한이 없습니다. 배우자와 부양가족의 교육비는 그 사람의 연 소득금액이 100만원 이하(근로소득만 있으면 총급여 500만원 이하)여야 하고 나이 제한은 없습니다.
