@@ -7,9 +7,9 @@ description: "간이과세자는 한 해 공급대가가 4,800만원 미만이�
 tags: [간이과세자, 부가세신고, 부가세, 납부면제, 개인사업자, 자영업자]
 categories: [세금]
 sourceUrl: "https://nts.go.kr/nts/na/ntt/selectNttInfo.do?nttSn=1322109&mi=40581"
-# cover:
-#   image: "/images/covers/simplified-vat-filing-exemption-2026.jpg"
-#   alt: "작은 가게와 계산기, 스마트폰을 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/simplified-vat-filing-exemption-2026.jpg"
+  alt: "작은 가게와 주판, 스마트폰을 나란히 배치한 일러스트"
 faq:
   - q: 간이과세자는 매출이 적어도 부가세 신고를 해야 하나요?
     a: 해야 합니다. 공급대가가 4,800만원 미만이면 납부의무는 면제되지만 신고 의무는 면제되지 않는다고 국세청이 안내합니다. 과세기간이 끝난 후 25일 이내에 신고하며, 올해 실적은 내년 1월 25일까지입니다.
