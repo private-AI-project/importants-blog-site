@@ -7,9 +7,9 @@ description: "일반과세자 부가세 신고는 1년에 네 번 기한이 옵�
 tags: [부가세신고기간, 부가가치세, 확정신고, 예정신고, 일반과세자, 개인사업자]
 categories: [세금]
 sourceUrl: "https://www.law.go.kr/법령/부가가치세법/제49조"
-# cover:
-#   image: "/images/covers/vat-filing-period-general-2026.jpg"
-#   alt: "달력 모양 판 네 개와 계산기, 열쇠를 나란히 배치한 일러스트"
+cover:
+  image: "/images/covers/vat-filing-period-general-2026.jpg"
+  alt: "모래시계와 빈 도장, 서류철을 나란히 배치한 일러스트"
 faq:
   - q: 10월 부가세 신고기간은 언제까지인가요?
     a: 2기 예정신고는 7~9월이 끝난 뒤 25일 이내인 10월 25일까지입니다. 올해는 10월 25일이 일요일이라 다음 날인 10월 26일 월요일이 기한입니다. 개인사업자는 예정신고 대신 고지서를 받는 경우가 많습니다.
