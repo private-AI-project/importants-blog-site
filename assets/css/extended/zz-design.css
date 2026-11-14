@@ -1,0 +1,132 @@
+/* shared-design/sync.py 가 만든 파일. 직접 고치지 말 것. */
+:root{--ac:#2E86DE;--act:#2076cd;--acs:#e8f2fb;--onac:#ffffff;--band:#1b2236}
+[data-theme="dark"]{--act-d:#3f90e0}
+/* ===== shared-design 공통 (sync.py 가 블로그별 색 변수와 합쳐 zz-design.css 로 만든다) ===== */
+:root{--accent:var(--ac);--accent-soft:var(--acs);--dzw:1180px;--dzsoft:#f3f5f8}
+[data-theme="dark"]{--dzsoft:var(--entry)}
+[data-theme="dark"]{--act:var(--act-d);--acs:color-mix(in srgb,var(--ac) 20%,transparent);--accent-soft:var(--acs)}
+.header-nav{max-width:calc(var(--dzw) + var(--gap)*2)}
+.main:has(.dz){max-width:calc(var(--dzw) + var(--gap)*2)}
+.footer{max-width:calc(var(--dzw) + var(--gap)*2)}
+#menu a:hover,#menu .active{color:var(--act)}
+.dz h1,.dz h2,.dz h3{letter-spacing:-.02em}
+.dz-home a,.dz-aside a{text-decoration:none;box-shadow:none}
+.dz-sec{padding:30px 0 4px}
+.dz-sec>h2{font-size:21px;font-weight:800;margin:0 0 16px;color:var(--primary)}
+/* 검색 */
+.dz-search{position:relative;display:flex;align-items:center;gap:10px;max-width:620px;height:56px;margin:26px 0 0;padding:0 18px;border:1.5px solid var(--primary);border-radius:14px;background:var(--entry);color:var(--secondary)}
+.dz-search input{flex:1;min-width:0;height:100%;border:0;outline:0;background:transparent;font:inherit;font-size:16px;color:var(--primary)}
+.dz-search input::placeholder{color:var(--secondary);opacity:.8}
+.dz-results{position:absolute;left:-1.5px;right:-1.5px;top:calc(100% + 6px);z-index:20;margin:0;padding:6px;list-style:none;background:var(--entry);border:1px solid var(--border);border-radius:14px;box-shadow:0 12px 32px rgba(16,24,40,.14);text-align:left}
+.dz-results a,.dz-results .none{display:block;padding:11px 12px;border-radius:9px;font-size:15px;line-height:1.45;color:var(--primary)}
+.dz-results a:hover{background:var(--acs)}
+.dz-results .none{color:var(--secondary)}
+/* 목록 줄 */
+.dz-rows{display:grid;grid-template-columns:1fr 1fr;column-gap:40px}
+.dz-row{display:flex;gap:14px;align-items:baseline;padding:16px 0;border-bottom:1px solid var(--border);color:var(--primary)}
+.dz-row em{flex:none;width:22px;font-style:normal;font-weight:800;color:var(--act)}
+.dz-row small{display:block;margin-bottom:3px;font-size:13px;color:var(--secondary)}
+.dz-row b{font-size:16px;font-weight:600;line-height:1.45}
+.dz-row:hover b{color:var(--act)}
+.dz-more{display:inline-block;margin-top:16px;font-weight:700;font-size:15px;color:var(--act)}
+/* 도구 */
+.dz-tools{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.dz-tool{display:flex;flex-direction:column;justify-content:space-between;gap:14px;min-height:118px;padding:22px;border-radius:16px;background:var(--acs);color:var(--primary)}
+.dz-tool i{display:none}
+.dz-tool b{font-size:17px;line-height:1.4}
+.dz-tool span{font-size:14px;font-weight:700;color:var(--act)}
+/* 글 화면 공통 */
+.dz-post .post-header{margin-bottom:0}
+.dz-post .post-title{font-size:36px;line-height:1.32;font-weight:800;letter-spacing:-.03em;margin-top:6px}
+.dz-post .post-description{font-size:18px;line-height:1.6;color:var(--secondary);margin-top:12px}
+.dz-trust{display:flex;flex-wrap:wrap;align-items:center;gap:8px 24px;margin-top:22px;padding:13px 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border);font-size:14px;color:var(--secondary)}
+.dz-trust b{color:var(--primary);font-weight:600}
+.dz-trust a b{color:var(--act)}
+.dz-trust .dz-meta{flex:1;min-width:240px;font-size:14px}
+.dz-grid{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:56px;padding-top:30px}
+.dz-body{min-width:0;max-width:740px}
+.dz-body .post-content{font-size:18px;line-height:1.85}
+.dz-aside{position:relative}
+.dz-toc{position:sticky;top:calc(var(--header-height) + 24px);max-height:calc(100vh - 120px);overflow:auto;padding-left:16px;border-left:2px solid var(--border)}
+.dz-toc h4,.dz-mtoc summary{font-size:13px;font-weight:700;color:var(--secondary);margin:0 0 10px}
+.dz-toc ul,.dz-mtoc ul{list-style:none;margin:0;padding:0}
+.dz-toc ul ul,.dz-mtoc ul ul{padding-left:12px}
+.dz-toc a{display:block;padding:6px 0;font-size:14.5px;line-height:1.45;color:var(--secondary)}
+.dz-toc a:hover{color:var(--primary)}
+.dz-toc a.on{color:var(--act);font-weight:700;margin-left:-18px;padding-left:16px;border-left:2px solid var(--ac)}
+.dz-mtoc{display:none;margin:0 0 24px;padding:14px 18px;border:1px solid var(--border);border-radius:14px;background:var(--entry)}
+.dz-mtoc summary{margin:0;cursor:pointer;font-size:15px;color:var(--primary)}
+.dz-mtoc[open] summary{margin-bottom:8px}
+.dz-mtoc a{display:block;padding:6px 0;font-size:15px;color:var(--act);text-decoration:none;box-shadow:none}
+.dz-key{margin:0 0 30px;padding:20px 24px;border-radius:16px;background:var(--acs)}
+.dz-key h3{margin:0 0 8px;font-size:14px;color:var(--act)}
+.dz-key ul{margin:0;padding:0;list-style:none}
+.dz-key li{position:relative;padding:5px 0 5px 20px;font-size:17px;font-weight:600;line-height:1.55}
+.dz-key li:before{content:'';position:absolute;left:0;top:15px;width:8px;height:8px;border-radius:2px;background:var(--ac)}
+.dz-calc{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:28px 0 34px;padding:20px 22px;border:1.5px solid var(--primary);border-radius:16px}
+.dz-calc small{font-size:13px;font-weight:700;color:var(--act)}
+.dz-calc b{display:block;margin-top:2px;font-size:18px;line-height:1.4}
+.dz-calc p{margin:6px 0 0 !important;font-size:14.5px !important;line-height:1.55 !important;color:var(--secondary)}
+.post-content .dz-calc a{flex:none;padding:12px 18px;border-radius:10px;background:var(--primary);color:var(--theme);font-size:15px;font-weight:700;text-decoration:none;box-shadow:none;white-space:nowrap}
+.dz-cta{display:block;margin-top:22px;padding:20px;border-radius:16px;background:var(--acs);color:var(--primary)}
+.dz-cta small{display:block;font-size:12.5px;font-weight:700;color:var(--act)}
+.dz-cta b{display:block;margin:6px 0 14px;font-size:17px;line-height:1.4}
+.dz-cta span{display:inline-block;padding:9px 14px;border-radius:9px;background:var(--ac);color:var(--onac);font-size:14px;font-weight:700}
+@media (max-width:900px){
+  .dz-grid{display:block}
+  .dz-aside .dz-toc{display:none}
+  .dz-mtoc{display:block}
+  .dz-cta{position:static;margin-top:28px}
+}
+@media (max-width:760px){
+  .dz-sec{padding-top:24px}
+  .dz-rows{grid-template-columns:1fr}
+  .dz-tools{grid-template-columns:1fr;gap:10px}
+  .dz-tool{min-height:0;padding:18px;flex-direction:row;align-items:center}
+  .dz-search{height:52px}
+  .dz-post .post-title{font-size:27px}
+  .dz-post .post-description{font-size:16px}
+  .dz-trust{gap:6px 16px;font-size:13px}
+  .dz-trust .dz-meta{flex-basis:100%;font-size:13px}
+  .dz-body .post-content{font-size:17px}
+  .dz-key li{font-size:16px}
+  .dz-calc{flex-direction:column;align-items:stretch}
+  .post-content .dz-calc a{text-align:center}
+}
+/* PaperMod 는 목록 페이지(body.list) 바탕을 회색으로 칠한다. 새 첫 화면은 모양별 바탕을 쓴다. */
+body.list:has(.dz){background:var(--theme)}
+/* ===== A 정리노트: 흰 바탕, 가운데 검색, 주제 타일 ===== */
+:root{--theme:#fff}
+.dz-A.dz-home .dz-hero{padding:56px 0 34px;text-align:center}
+.dz-A .dz-hero h1{font-size:40px;font-weight:800;line-height:1.3;margin:0}
+.dz-A .dz-hero p{margin:12px 0 0;font-size:17px;color:var(--secondary)}
+.dz-A .dz-search{margin:28px auto 0}
+.dz-chips{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:16px}
+.dz-chips a{padding:8px 14px;border-radius:99px;background:var(--dzsoft);font-size:14px;color:var(--secondary)}
+.dz-chips a:hover{color:var(--act)}
+.dz-topics{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.dz-topic{padding:22px;border:1px solid var(--border);border-radius:16px;color:var(--primary);background:var(--entry)}
+.dz-topic i{display:block;position:relative;width:38px;height:38px;margin-bottom:20px;border-radius:10px;background:var(--acs)}
+.dz-topic i:after{content:'';position:absolute;inset:12px;border-radius:4px;background:var(--ac)}
+.dz-topic b{font-size:17px}
+.dz-topic span{display:block;margin-top:4px;font-size:14px;color:var(--secondary)}
+.dz-topic:hover{border-color:var(--ac)}
+/* a2: 왼쪽 정렬 머리 + 오른쪽 도구 */
+.dz-A.a2.dz-home .dz-hero{display:grid;grid-template-columns:1.05fr 1fr;gap:48px;align-items:center;text-align:left;padding:48px 0 26px}
+.dz-A.a2 .dz-search{margin:26px 0 0}
+.dz-A.a2 .dz-chips{justify-content:flex-start}
+.dz-tools-side{grid-template-columns:1fr}
+.dz-tools-side .dz-tool{flex-direction:row;align-items:center;min-height:0;padding:18px 22px;background:var(--entry);border:1px solid var(--border)}
+.dz-tools-side .dz-tool b:before{content:'';display:inline-block;width:10px;height:10px;margin-right:12px;border-radius:3px;background:var(--ac)}
+.dz-A.a2 .dz-topic{border:0;background:var(--acs)}
+@media (max-width:760px){
+  .dz-A.dz-home .dz-hero,.dz-A.a2.dz-home .dz-hero{display:block;text-align:left;padding:26px 0 20px}
+  .dz-A .dz-hero h1{font-size:28px}
+  .dz-A .dz-hero p{font-size:15px}
+  .dz-A .dz-search,.dz-A.a2 .dz-search{margin:20px 0 0}
+  .dz-chips{justify-content:flex-start}
+  .dz-tools-side{margin-top:20px}
+  .dz-topics{grid-template-columns:repeat(2,1fr);gap:10px}
+  .dz-topic{padding:16px}
+  .dz-topic i{margin-bottom:12px}
+}
